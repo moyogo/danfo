@@ -1,0 +1,34 @@
+{
+glyphname = rightWhiteSmallTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokePos = "1";
+};
+closed = 1;
+nodes = (
+(100.361,197.262,l),
+(100.652,301.398,l),
+(185.299,251.075,l)
+);
+},
+{
+attr = {
+strokePos = "1";
+};
+closed = 1;
+nodes = (
+(30,426,l),
+(29,68,l),
+(321,253,l)
+);
+}
+);
+width = 350;
+}
+);
+unicode = 9657;
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = estroke;
+kernLeft = E;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Estroke;
+}
+);
+width = 576;
+}
+);
+unicode = 583;
+}

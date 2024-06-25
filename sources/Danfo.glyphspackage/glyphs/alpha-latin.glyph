@@ -1,0 +1,28 @@
+{
+color = 5;
+glyphname = "alpha-latin";
+kernLeft = C;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = top;
+pos = (328,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = "Alpha-latin";
+}
+);
+width = 655;
+}
+);
+unicode = 593;
+}

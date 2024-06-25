@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Oslashacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (257,0);
+ref = acutecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "E7C20299-C4C5-496F-9E0E-A4D22D97AF70";
+name = "Jan 11, 24 at 00:21";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (257,0);
+ref = acutecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "35A004E0-60C7-400B-BC73-FE4A727D7F14";
+name = "Jan 11, 24 at 00:21";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (257,0);
+ref = acutecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 510;
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ohorngrave;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C1D8AC1E-006E-4059-9368-10E4140A100E";
+name = "Jan 11, 24 at 00:12";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "AB5486EA-8C10-4B2A-8B70-230F2A329536";
+name = "Jan 11, 24 at 00:12";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7900;
+}

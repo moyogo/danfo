@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = lcaron;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lcaron;
+}
+);
+width = 584;
+}
+);
+unicode = 318;
+}

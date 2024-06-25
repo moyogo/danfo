@@ -1,0 +1,67 @@
+{
+color = 5;
+glyphname = Abrevegrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+guides = (
+{
+pos = (238,990);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6D7F0779-EDEC-42C6-A9C3-87B31BDC317D";
+name = "{50} 9 Jan 24 at 20:01";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "E47D6B73-5525-42E5-9566-7185DD822E23";
+name = "9 Jan 24 at 20:01";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7856;
+}

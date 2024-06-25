@@ -1,0 +1,62 @@
+{
+glyphname = circumflexcomb_tildecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = circumflexcomb;
+},
+{
+pos = (19,250);
+ref = tildecomb;
+scale = (0.8858,0.8858);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5EAEAE8F-F8FF-432E-9E9F-FA2304AEA275";
+name = "Jan 10, 24 at 20:49";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+pos = (19,250);
+ref = tildecomb;
+scale = (0.8858,0.8858);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9B1DFA71-C294-4964-B223-449227167829";
+name = "Jan 10, 24 at 20:49";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+pos = (19,250);
+ref = tildecomb;
+scale = (0.8858,0.8858);
+}
+);
+width = 302;
+}
+);
+}

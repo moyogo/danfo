@@ -1,0 +1,19 @@
+{
+glyphname = two.numr;
+kernLeft = two.numr;
+kernRight = two.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,401);
+ref = two.dnom;
+}
+);
+width = 283;
+}
+);
+metricLeft = two.dnom;
+metricRight = two.dnom;
+}

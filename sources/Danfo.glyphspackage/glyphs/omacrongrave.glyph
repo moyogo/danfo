@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = omacrongrave;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Omacrongrave;
+}
+);
+width = 634;
+}
+);
+unicode = 7761;
+}

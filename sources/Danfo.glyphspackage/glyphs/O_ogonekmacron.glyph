@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Oogonekmacron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (238,-6);
+ref = ogonekcomb;
+},
+{
+pos = (162,8);
+ref = macroncomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "11328B26-7F55-4F2E-B6A9-B8E8CC7E011E";
+name = "Jan 11, 24 at 00:20";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (238,-6);
+ref = ogonekcomb;
+},
+{
+pos = (162,8);
+ref = macroncomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "ECC97B1B-C1F5-4BC5-B5D9-46385D27AB11";
+name = "Jan 11, 24 at 00:20";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (238,-6);
+ref = ogonekcomb;
+},
+{
+pos = (162,8);
+ref = macroncomb;
+}
+);
+width = 634;
+}
+);
+unicode = 492;
+}

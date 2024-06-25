@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ocircumflexgrave;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6EC2DB27-F77A-408B-80BD-314234674B13";
+name = "Jan 11, 24 at 00:09";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8E64B78D-F7E7-4A49-8CC2-9E8E6228C974";
+name = "Jan 11, 24 at 00:09";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7890;
+}

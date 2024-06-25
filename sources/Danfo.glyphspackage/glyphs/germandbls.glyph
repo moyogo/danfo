@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = germandbls;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 687;
+}
+);
+unicode = 223;
+}

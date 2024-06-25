@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = zdotaccent;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Zdotaccent;
+}
+);
+width = 588;
+}
+);
+unicode = 380;
+}

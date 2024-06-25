@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = gcaron;
+kernLeft = O;
+kernRight = G;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Gcaron;
+}
+);
+width = 616;
+}
+);
+unicode = 487;
+}

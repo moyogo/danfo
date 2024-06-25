@@ -1,0 +1,20 @@
+{
+glyphname = clicklateral;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = clickdental;
+},
+{
+pos = (214,0);
+ref = clickdental;
+}
+);
+width = 428;
+}
+);
+metricRight = "=|";
+unicode = 449;
+}

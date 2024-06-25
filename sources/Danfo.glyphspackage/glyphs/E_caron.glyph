@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ecaron;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "24DEC1C7-F898-4CDE-A710-A79A9B045DC2";
+name = "{50} 9 Jan 24 at 16:46";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8337ECA6-99C3-4B4B-9366-3C00B45C1B55";
+name = "9 Jan 24 at 16:46";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 576;
+}
+);
+unicode = 282;
+}

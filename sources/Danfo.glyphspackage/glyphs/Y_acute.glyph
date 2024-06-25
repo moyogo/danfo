@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (345,0);
+},
+{
+name = hook;
+pos = (609,636);
+},
+{
+name = top;
+pos = (335,716);
+},
+{
+name = topleft;
+pos = (24,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (275,0);
+ref = acutecomb;
+}
+);
+width = 685;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (345,0);
+},
+{
+name = hook;
+pos = (609,636);
+},
+{
+name = top;
+pos = (335,716);
+},
+{
+name = topleft;
+pos = (24,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "79FE0064-1C07-4D1A-B648-ADAE85E894EB";
+name = "Jan 9, 24 at 17:12";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (275,0);
+ref = acutecomb;
+}
+);
+width = 685;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (345,0);
+},
+{
+name = hook;
+pos = (609,636);
+},
+{
+name = top;
+pos = (335,716);
+},
+{
+name = topleft;
+pos = (24,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "93C07A4B-BAC5-4420-9942-F403FB89236D";
+name = "Jan 9, 24 at 17:12";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (275,0);
+ref = acutecomb;
+}
+);
+width = 685;
+}
+);
+unicode = 221;
+}

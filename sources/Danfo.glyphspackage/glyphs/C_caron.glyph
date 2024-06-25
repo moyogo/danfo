@@ -1,0 +1,64 @@
+{
+color = 5;
+glyphname = Ccaron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (173,0);
+ref = caroncomb;
+}
+);
+width = 616;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "DA7768A0-2A10-417E-A94E-F4A6E2AF689D";
+name = "{50} 9 Jan 24 at 16:34";
+shapes = (
+{
+ref = C;
+},
+{
+alignment = 1;
+pos = (173,0);
+ref = caroncomb;
+}
+);
+width = 616;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "82AAAD72-16B5-46FB-9C5E-418CB332895E";
+name = "9 Jan 24 at 16:34";
+shapes = (
+{
+ref = C;
+},
+{
+alignment = 1;
+pos = (173,0);
+ref = caroncomb;
+}
+);
+width = 616;
+}
+);
+unicode = 268;
+}

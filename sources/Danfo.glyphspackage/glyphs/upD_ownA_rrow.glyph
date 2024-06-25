@@ -1,0 +1,17 @@
+{
+glyphname = upDownArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90;
+pos = (-93,766);
+ref = leftRightArrow;
+}
+);
+width = 579;
+}
+);
+unicode = 8597;
+}

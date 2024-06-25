@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ahookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (239,0);
+ref = hookabovecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "2FE38216-68F5-4DFB-A7C5-EF7C95665563";
+name = "{50} 9 Jan 24 at 20:15";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (239,0);
+ref = hookabovecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "772FFD29-392C-40B8-A70F-240E4E8DD092";
+name = "9 Jan 24 at 20:15";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (239,0);
+ref = hookabovecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7842;
+}

@@ -1,0 +1,17 @@
+{
+color = 5;
+glyphname = jacute;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Jacute;
+}
+);
+width = 620;
+}
+);
+}

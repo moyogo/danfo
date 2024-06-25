@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Otildemacron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (168,154);
+ref = macroncomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "68559180-6BEF-4DD8-AC7D-AB864D45052E";
+name = "Jan 11, 24 at 00:23";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (168,154);
+ref = macroncomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "2AB2D319-C91F-4009-9B28-C1AB188BA29A";
+name = "Jan 11, 24 at 00:23";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (168,154);
+ref = macroncomb;
+}
+);
+width = 634;
+}
+);
+unicode = 556;
+}

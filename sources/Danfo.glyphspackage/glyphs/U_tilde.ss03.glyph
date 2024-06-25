@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Utilde.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (203,0);
+ref = tildecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "EA9E8F9B-49CA-4359-908A-A2659DD28B57";
+name = "Jan 15, 24 at 15:25";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (203,0);
+ref = tildecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "13DAEFE5-1CB6-482C-9787-F47BC2FA1B1A";
+name = "Jan 15, 24 at 15:25";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (203,0);
+ref = tildecomb;
+}
+);
+width = 687;
+}
+);
+}

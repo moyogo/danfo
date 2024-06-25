@@ -1,0 +1,92 @@
+{
+color = 5;
+glyphname = Rmacronbelow;
+kernLeft = H;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (351,0);
+},
+{
+name = top;
+pos = (311,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (199,0);
+ref = macronbelowcomb;
+}
+);
+width = 699;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (351,0);
+},
+{
+name = top;
+pos = (311,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C72DD94C-B3C7-4779-ACD2-CBD858943C09";
+name = "Jan 4, 24 at 15:56";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (199,0);
+ref = macronbelowcomb;
+}
+);
+width = 699;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (351,0);
+},
+{
+name = top;
+pos = (311,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "54DA671D-CE86-4B25-8C9D-33201D59D68E";
+name = "Jan 4, 24 at 15:56";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (199,0);
+ref = macronbelowcomb;
+}
+);
+width = 699;
+}
+);
+unicode = 7774;
+}

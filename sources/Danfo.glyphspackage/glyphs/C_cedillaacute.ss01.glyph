@@ -1,0 +1,71 @@
+{
+color = 5;
+glyphname = Ccedillaacute.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (216,0);
+ref = cedillacomb;
+},
+{
+pos = (270,0);
+ref = acutecomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "20F0F156-0858-4B10-9060-F2EF912B00B5";
+name = "Jan 15, 24 at 12:54";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (216,0);
+ref = cedillacomb;
+},
+{
+pos = (270,0);
+ref = acutecomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "EB070185-C79C-4B88-9469-0D6D12D76C22";
+name = "Jan 15, 24 at 12:54";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (216,0);
+ref = cedillacomb;
+},
+{
+pos = (270,0);
+ref = acutecomb;
+}
+);
+width = 589;
+}
+);
+}

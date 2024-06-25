@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = uinvertedbreve.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uinvertedbreve.ss03;
+}
+);
+width = 687;
+}
+);
+}

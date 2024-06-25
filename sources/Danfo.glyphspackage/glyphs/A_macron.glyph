@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Amacron;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (190,8);
+ref = macroncomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6B9CEAE6-1907-496C-A8A6-98B23AB3152A";
+name = "{50} 9 Jan 24 at 20:18";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (190,8);
+ref = macroncomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "D0C90826-8967-4B1C-8DD2-6EF308257848";
+name = "9 Jan 24 at 20:18";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (190,8);
+ref = macroncomb;
+}
+);
+width = 700;
+}
+);
+unicode = 256;
+}

@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = lmiddletilde.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lmiddletilde.ss02;
+}
+);
+width = 567;
+}
+);
+}

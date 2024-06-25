@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Scircumflex;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (157,0);
+ref = circumflexcomb;
+}
+);
+width = 625;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C7B2C05C-0179-4348-8A36-3591A704878F";
+name = "Feb 2, 24 at 15:53";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (157,0);
+ref = circumflexcomb;
+}
+);
+width = 625;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "85E9EEB0-CEF8-4310-AA2F-1A36981AC893";
+name = "Feb 2, 24 at 15:53";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (157,0);
+ref = circumflexcomb;
+}
+);
+width = 625;
+}
+);
+unicode = 348;
+}

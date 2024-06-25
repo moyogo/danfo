@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = "omega-latin";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+ref = "Omega-latin";
+}
+);
+width = 864;
+}
+);
+metricLeft = c;
+metricRight = C;
+unicode = 42935;
+}

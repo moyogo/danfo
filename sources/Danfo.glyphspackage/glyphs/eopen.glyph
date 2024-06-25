@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = eopen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eopen;
+}
+);
+width = 603;
+}
+);
+unicode = 603;
+}

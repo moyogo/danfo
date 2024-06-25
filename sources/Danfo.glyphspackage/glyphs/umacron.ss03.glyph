@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = umacron.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Umacron.ss03;
+}
+);
+width = 687;
+}
+);
+}

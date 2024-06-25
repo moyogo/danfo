@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = lslash;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lslash;
+}
+);
+width = 584;
+}
+);
+unicode = 322;
+}

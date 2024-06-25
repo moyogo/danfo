@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ehookabove;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (192,0);
+ref = hookabovecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "2169D79B-3E9F-4E2F-B4EE-3CFAE9AFE249";
+name = "{50} 9 Jan 24 at 17:08";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (192,0);
+ref = hookabovecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "AB002A98-3256-436D-B259-0333C79FEDB2";
+name = "9 Jan 24 at 17:08";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (192,0);
+ref = hookabovecomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7866;
+}

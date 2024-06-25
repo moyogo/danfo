@@ -1,0 +1,34 @@
+{
+glyphname = clickalveolar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (68,0);
+ref = clickdental;
+},
+{
+closed = 1;
+nodes = (
+(321,353,l),
+(321,433,l),
+(29,433,l),
+(29,353,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(321,223,l),
+(321,303,l),
+(29,303,l),
+(29,223,l)
+);
+}
+);
+width = 350;
+}
+);
+unicode = 450;
+}

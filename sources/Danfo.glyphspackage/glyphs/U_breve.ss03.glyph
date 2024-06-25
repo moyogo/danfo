@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Ubreve.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (195,0);
+ref = brevecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "FD1D8D9B-ED78-4280-843D-F062C83C9249";
+name = "Jan 15, 24 at 15:10";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (195,0);
+ref = brevecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "758FEB1E-E19A-48AC-B815-81AB7AE552C0";
+name = "Jan 15, 24 at 15:10";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (195,0);
+ref = brevecomb;
+}
+);
+width = 687;
+}
+);
+}

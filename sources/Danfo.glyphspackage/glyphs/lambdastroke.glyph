@@ -1,0 +1,29 @@
+{
+color = 5;
+glyphname = lambdastroke;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(402,738,l),
+(364,779,l),
+(147,566,l),
+(183,525,l)
+);
+},
+{
+ref = lambda;
+}
+);
+width = 682;
+}
+);
+metricLeft = H;
+metricRight = R;
+unicode = 411;
+}

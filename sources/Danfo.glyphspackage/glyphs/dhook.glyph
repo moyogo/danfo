@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = dhook;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Dhook;
+}
+);
+width = 702;
+}
+);
+unicode = 599;
+}

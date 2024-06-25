@@ -1,0 +1,50 @@
+{
+color = 5;
+glyphname = e;
+kernLeft = E;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1FD9253D-2AD7-4204-8571-E7993CC275A7";
+name = "Jan 3, 24 at 12:16";
+shapes = (
+{
+ref = E;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "BD7886C1-DD3B-4BC5-8FBD-D95C87C8D061";
+name = "Jan 3, 24 at 12:16";
+shapes = (
+{
+ref = E;
+}
+);
+width = 576;
+}
+);
+unicode = 101;
+}

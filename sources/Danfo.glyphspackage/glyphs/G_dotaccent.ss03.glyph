@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Gdotaccent.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (258,0);
+ref = dotaccentcomb;
+}
+);
+width = 627;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "B6F936CA-DB62-46A3-857A-3FCEC90E0B81";
+name = "Jan 15, 24 at 14:48";
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (258,0);
+ref = dotaccentcomb;
+}
+);
+width = 627;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "941DF932-FACA-4EB2-94F5-84D65A394827";
+name = "Jan 15, 24 at 14:48";
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (258,0);
+ref = dotaccentcomb;
+}
+);
+width = 627;
+}
+);
+}

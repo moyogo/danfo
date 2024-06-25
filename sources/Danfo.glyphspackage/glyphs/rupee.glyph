@@ -1,0 +1,59 @@
+{
+glyphname = rupee;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (699,0);
+ref = S;
+}
+);
+width = 1324;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "59FC9DBB-99DA-4484-86FD-691E0E48448D";
+name = "Feb 8, 24 at 22:51";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (699,0);
+ref = S;
+}
+);
+width = 1324;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "C9FE10D3-F326-4B2D-8065-0142F4EF7C1F";
+name = "Feb 8, 24 at 22:51";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (699,0);
+ref = S;
+}
+);
+width = 1324;
+}
+);
+unicode = 8360;
+}

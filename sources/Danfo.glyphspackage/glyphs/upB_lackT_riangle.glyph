@@ -1,0 +1,20 @@
+{
+glyphname = upBlackTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(29,144,l),
+(733,141,l),
+(370,716,l)
+);
+}
+);
+width = 762;
+}
+);
+unicode = 9650;
+}

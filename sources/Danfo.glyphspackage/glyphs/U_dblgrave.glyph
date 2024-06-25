@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = Udblgrave;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (680,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (143,0);
+ref = dblgravecomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "F4C21523-583E-47CE-BE1F-FA170D1F68B8";
+name = "Jan 9, 24 at 16:16";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (143,0);
+ref = dblgravecomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "6817F6F9-20D5-4280-9869-725484A27D03";
+name = "Jan 9, 24 at 16:16";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (143,0);
+ref = dblgravecomb;
+}
+);
+width = 683;
+}
+);
+unicode = 532;
+}

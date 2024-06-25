@@ -1,0 +1,92 @@
+{
+color = 5;
+glyphname = Scaron;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "3F28A63B-0421-4905-A987-CA06E0AD3B90";
+name = "Jan 9, 24 at 13:56";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "249E472C-19CC-4E2C-8771-5010ADE8C74C";
+name = "Jan 9, 24 at 13:56";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 625;
+}
+);
+unicode = 352;
+}

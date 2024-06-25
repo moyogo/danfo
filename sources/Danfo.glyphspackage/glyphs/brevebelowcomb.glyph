@@ -1,0 +1,68 @@
+{
+glyphname = brevebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (131,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (-22,-915);
+ref = brevecomb;
+}
+);
+width = 262;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (131,0);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C45FCE03-0B1D-405D-9C32-C52843560D22";
+name = "Jan 11, 24 at 00:34";
+shapes = (
+{
+pos = (-22,-915);
+ref = brevecomb;
+}
+);
+width = 262;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (131,0);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F548C60A-3E03-41F5-A4B0-E6FEC2D15160";
+name = "Jan 11, 24 at 00:34";
+shapes = (
+{
+pos = (-22,-915);
+ref = brevecomb;
+}
+);
+width = 262;
+}
+);
+unicode = 814;
+}

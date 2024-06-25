@@ -1,0 +1,27 @@
+{
+glyphname = percent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (27,0);
+ref = zero.numr;
+},
+{
+alignment = -1;
+pos = (4,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (27,0);
+ref = zero.dnom;
+}
+);
+width = 335;
+}
+);
+unicode = 37;
+}

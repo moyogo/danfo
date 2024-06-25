@@ -1,0 +1,69 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (107,238);
+ref = acutecomb;
+scale = (0.7135,0.8544);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "7D52FFCD-08E6-49D4-ADC6-05E666403D15";
+name = "Jan 10, 24 at 20:48";
+shapes = (
+{
+alignment = -1;
+pos = (4,6);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (113,244);
+ref = acutecomb;
+scale = (0.7135,0.8544);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F0741195-45F4-4A6F-8F37-8045979E2239";
+name = "Jan 10, 24 at 20:48";
+shapes = (
+{
+alignment = -1;
+pos = (4,6);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (113,244);
+ref = acutecomb;
+scale = (0.7135,0.8544);
+}
+);
+width = 302;
+}
+);
+}

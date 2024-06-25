@@ -1,0 +1,80 @@
+{
+glyphname = tildebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (158,0);
+},
+{
+name = bottom;
+pos = (158,-168);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (10,-914);
+ref = tildecomb;
+}
+);
+width = 315;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (158,0);
+},
+{
+name = bottom;
+pos = (158,-168);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "681ADBC3-3109-469D-9DF5-79CED67013FF";
+name = "Jan 18, 24 at 10:30";
+shapes = (
+{
+pos = (10,-914);
+ref = tildecomb;
+}
+);
+width = 315;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (158,0);
+},
+{
+name = bottom;
+pos = (158,-168);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "731A91C9-D7F8-4FBF-80D7-859912EF72D7";
+name = "Jan 18, 24 at 10:30";
+shapes = (
+{
+pos = (10,-914);
+ref = tildecomb;
+}
+);
+width = 315;
+}
+);
+unicode = 816;
+}

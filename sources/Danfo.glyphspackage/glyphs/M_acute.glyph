@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Macute;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (318,0);
+ref = acutecomb;
+}
+);
+width = 768;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "4361CA66-767B-45FF-9A66-05AD81FA6515";
+name = "Jan 26, 24 at 06:17";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (318,0);
+ref = acutecomb;
+}
+);
+width = 768;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5A14AAC5-E034-4051-9575-60C4159E46A7";
+name = "Jan 26, 24 at 06:17";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (318,0);
+ref = acutecomb;
+}
+);
+width = 768;
+}
+);
+unicode = 7742;
+}

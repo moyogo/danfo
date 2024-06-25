@@ -1,0 +1,128 @@
+{
+color = 5;
+glyphname = Zcircumflex;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = center;
+pos = (322,552);
+},
+{
+name = ogonek;
+pos = (-43,0);
+},
+{
+name = top;
+pos = (291,716);
+},
+{
+name = topright;
+pos = (547,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (153,-1);
+ref = circumflexcomb;
+}
+);
+width = 588;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = center;
+pos = (322,552);
+},
+{
+name = ogonek;
+pos = (-43,0);
+},
+{
+name = top;
+pos = (291,716);
+},
+{
+name = topright;
+pos = (547,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C48FFD59-1ADB-4F47-AA53-376DA85BB9CA";
+name = "Jan 9, 24 at 17:25";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (153,-1);
+ref = circumflexcomb;
+}
+);
+width = 588;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (290,0);
+},
+{
+name = center;
+pos = (322,552);
+},
+{
+name = ogonek;
+pos = (-43,0);
+},
+{
+name = top;
+pos = (291,716);
+},
+{
+name = topright;
+pos = (547,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "02AC69C1-1EB2-43D3-B85C-D2BAF5740730";
+name = "Jan 9, 24 at 17:25";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (153,-1);
+ref = circumflexcomb;
+}
+);
+width = 588;
+}
+);
+unicode = 7824;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = "leftanglebracket-math";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,-79,l),
+(148,381,l),
+(334,841,l),
+(252,841,l),
+(29,381,l),
+(252,-79,l)
+);
+}
+);
+width = 344;
+}
+);
+metricLeft = o;
+unicode = 10216;
+}

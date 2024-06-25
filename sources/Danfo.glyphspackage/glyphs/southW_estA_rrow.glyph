@@ -1,0 +1,17 @@
+{
+glyphname = southWestArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 135;
+pos = (726,502);
+ref = upArrow;
+}
+);
+width = 504;
+}
+);
+unicode = 8601;
+}

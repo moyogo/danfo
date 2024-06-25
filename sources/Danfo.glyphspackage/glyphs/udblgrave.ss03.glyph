@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = udblgrave.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Udblgrave.ss03;
+}
+);
+width = 687;
+}
+);
+}

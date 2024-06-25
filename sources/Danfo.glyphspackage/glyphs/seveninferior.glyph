@@ -1,0 +1,17 @@
+{
+glyphname = seveninferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = seven.dnom;
+}
+);
+width = 241;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+unicode = 8327;
+}

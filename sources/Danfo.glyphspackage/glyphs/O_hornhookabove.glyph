@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ohornhookabove;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (211,0);
+ref = hookabovecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "2E7A8FAF-1FD7-4EA1-9E4B-B8F409C26784";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (211,0);
+ref = hookabovecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "1A296122-F73B-490F-A0EC-DC65018BCB41";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (211,0);
+ref = hookabovecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7902;
+}

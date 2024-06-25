@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Odotaccent;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (247,0);
+ref = dotaccentcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5FF05B26-9063-4FBA-B63B-EAA7BB4BF9CB";
+name = "Jan 10, 24 at 23:58";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (247,0);
+ref = dotaccentcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5CC84D85-00AD-46CE-BB44-6C37910F7194";
+name = "Jan 10, 24 at 23:58";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (247,0);
+ref = dotaccentcomb;
+}
+);
+width = 634;
+}
+);
+unicode = 558;
+}

@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Udblgrave.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (142,0);
+ref = dblgravecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1A772931-D12C-498B-8D44-3282E12CC3F8";
+name = "Jan 15, 24 at 15:11";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (142,0);
+ref = dblgravecomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "944E05AC-0C67-4B40-B86D-33C26A0C197A";
+name = "Jan 15, 24 at 15:11";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (142,0);
+ref = dblgravecomb;
+}
+);
+width = 687;
+}
+);
+}

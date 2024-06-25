@@ -1,0 +1,17 @@
+{
+glyphname = northWestArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 45;
+pos = (327,-67);
+ref = upArrow;
+}
+);
+width = 501;
+}
+);
+unicode = 8598;
+}

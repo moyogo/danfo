@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = bdotbelow;
+kernLeft = B;
+kernRight = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Bdotbelow;
+}
+);
+width = 639;
+}
+);
+unicode = 7685;
+}

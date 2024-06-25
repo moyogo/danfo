@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Ccaron.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "7B3E0019-1767-458C-B4B1-C53AA258368C";
+name = "Jan 15, 24 at 12:53";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "2CC2C470-9BF0-42F4-8C86-F373533F68CC";
+name = "Jan 15, 24 at 12:53";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (153,0);
+ref = caroncomb;
+}
+);
+width = 589;
+}
+);
+}

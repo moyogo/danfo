@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Agrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (185,0);
+ref = gravecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1070E364-1DEC-4CB5-B859-E9700A76DCAD";
+name = "{50} 9 Jan 24 at 20:15";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (185,0);
+ref = gravecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F8685F38-09C2-4BC5-BE5D-D6E5D1802B63";
+name = "{50} 9 Jan 24 at 20:14";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (185,0);
+ref = gravecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 192;
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Oinvertedbreve;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (164,0);
+ref = breveinvertedcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6A7C1A11-EF51-4023-A214-B9F7FBF02787";
+name = "Jan 11, 24 at 00:14";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (164,0);
+ref = breveinvertedcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9DF829D1-9590-4E2A-A7FC-F23C05B36581";
+name = "Jan 11, 24 at 00:14";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (164,0);
+ref = breveinvertedcomb;
+}
+);
+width = 634;
+}
+);
+unicode = 526;
+}

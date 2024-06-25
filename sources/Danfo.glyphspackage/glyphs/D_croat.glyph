@@ -1,0 +1,104 @@
+{
+color = 5;
+glyphname = Dcroat;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = center;
+pos = (303,358);
+},
+{
+name = hookjoin;
+pos = (29,636);
+},
+{
+name = top;
+pos = (322,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = center;
+pos = (303,358);
+},
+{
+name = hookjoin;
+pos = (29,636);
+},
+{
+name = top;
+pos = (322,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "79D019A9-D664-4852-9E6B-CD2ECD2F2AA9";
+name = "Jan 26, 24 at 07:52";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = center;
+pos = (303,358);
+},
+{
+name = hookjoin;
+pos = (29,636);
+},
+{
+name = top;
+pos = (322,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9F684CD3-C5CB-432C-92B0-3D11260F69EA";
+name = "Jan 26, 24 at 07:52";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 623;
+}
+);
+unicode = 272;
+}

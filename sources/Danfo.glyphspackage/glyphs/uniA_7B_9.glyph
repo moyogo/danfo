@@ -1,0 +1,52 @@
+{
+glyphname = uniA7B9;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = uniA7B8;
+}
+);
+width = 683;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "10A18B58-D2B0-48C7-A614-84A1DA15258D";
+name = "Jan 18, 24 at 13:44";
+shapes = (
+{
+alignment = 1;
+ref = uniA7B8;
+}
+);
+width = 683;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5327231C-B7C9-4531-8F12-2522800E0D04";
+name = "Jan 18, 24 at 13:44";
+shapes = (
+{
+alignment = 1;
+ref = uniA7B8;
+}
+);
+width = 683;
+}
+);
+metricLeft = U;
+metricRight = U;
+unicode = 42937;
+}

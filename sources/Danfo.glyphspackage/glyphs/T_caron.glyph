@@ -1,0 +1,104 @@
+{
+color = 5;
+glyphname = Tcaron;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "2CA00106-D16E-4E7E-A4FE-09184EC4AF6F";
+name = "Jan 4, 24 at 16:46";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "7FECD01E-8228-45A0-8042-E5E15A0A319E";
+name = "Jan 4, 24 at 16:46";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (131,0);
+ref = caroncomb;
+}
+);
+width = 552;
+}
+);
+unicode = 356;
+}

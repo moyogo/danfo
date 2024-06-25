@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = "gamma-latin";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Gamma-latin";
+}
+);
+width = 602;
+}
+);
+unicode = 611;
+}

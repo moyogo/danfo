@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Eogonek;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (369,0);
+ref = ogonekcomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "343D5EC8-AD66-40DB-9842-EC6A04F4C702";
+name = "{50} 9 Jan 24 at 17:11";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (369,0);
+ref = ogonekcomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "FDC85590-7BA5-4335-8DCE-34B3168CA066";
+name = "9 Jan 24 at 17:11";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (369,0);
+ref = ogonekcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 280;
+}

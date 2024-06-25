@@ -1,0 +1,64 @@
+{
+glyphname = brevecomb_tildecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-22,6);
+ref = brevecomb;
+},
+{
+pos = (5,235);
+ref = tildecomb;
+scale = (0.8885,0.8885);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BCDA6BFD-EBFD-4DEC-BC67-20F0092FD9D4";
+name = "Jan 10, 24 at 20:50";
+shapes = (
+{
+pos = (-22,6);
+ref = brevecomb;
+},
+{
+pos = (5,235);
+ref = tildecomb;
+scale = (0.8885,0.8885);
+}
+);
+width = 302;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "267460B5-3902-4014-918E-774DB397A90A";
+name = "Jan 10, 24 at 20:50";
+shapes = (
+{
+pos = (-22,6);
+ref = brevecomb;
+},
+{
+pos = (5,235);
+ref = tildecomb;
+scale = (0.8885,0.8885);
+}
+);
+width = 302;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = jstroke.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Jstroke.ss02;
+}
+);
+width = 573;
+}
+);
+}

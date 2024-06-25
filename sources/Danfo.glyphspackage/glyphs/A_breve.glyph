@@ -1,0 +1,66 @@
+{
+color = 5;
+glyphname = Abreve;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "897B2D62-AF45-4A0B-BE7A-DA91FCA9A252";
+name = "{50} 9 Jan 24 at 19:57";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (232,-18);
+ref = brevecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9B4393BF-B03A-4F16-A417-2C88357DC157";
+name = "{50} 9 Jan 24 at 19:51";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (232,-18);
+ref = brevecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 258;
+}

@@ -1,0 +1,104 @@
+{
+color = 5;
+glyphname = Tdotbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (206,0);
+ref = dotbelowcomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1C6DE54F-75B7-41A1-8645-468DD81906AD";
+name = "Jan 9, 24 at 15:24";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (206,0);
+ref = dotbelowcomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "55642D86-29B2-4BA3-8DD9-152EE7DE02B2";
+name = "Jan 9, 24 at 15:24";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (206,0);
+ref = dotbelowcomb;
+}
+);
+width = 552;
+}
+);
+unicode = 7788;
+}

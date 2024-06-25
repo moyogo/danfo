@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Abrevetilde;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (216,-6);
+ref = brevecomb_tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BED0CB6F-9485-4930-BAC0-0DEBDEB7FFA0";
+name = "{50} 9 Jan 24 at 20:02";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (216,-6);
+ref = brevecomb_tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "35973CD3-407C-4E53-8DDD-4F1707352BDA";
+name = "{50} 9 Jan 24 at 20:02";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (216,-6);
+ref = brevecomb_tildecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7860;
+}

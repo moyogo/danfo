@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = abreve;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Abreve;
+}
+);
+width = 700;
+}
+);
+unicode = 259;
+}

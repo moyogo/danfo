@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Acircumflextilde;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (197,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "F5D7EE61-3946-4F82-8383-A3A6F89C5808";
+name = "{50} 9 Jan 24 at 20:08";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (197,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "65099548-F70B-475E-BE52-94DEE4A7A1E7";
+name = "{50} 9 Jan 24 at 20:08";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (197,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7850;
+}

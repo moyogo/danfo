@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = Uhornhookabove;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (240,0);
+ref = hookabovecomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "56AE71CF-5BD7-4B48-94C1-B67DD3CB928D";
+name = "Jan 10, 24 at 09:13";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (240,0);
+ref = hookabovecomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "3D2485DB-A2C6-4EFC-9120-A28E13B3B16C";
+name = "Jan 10, 24 at 09:13";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (240,0);
+ref = hookabovecomb;
+}
+);
+width = 683;
+}
+);
+unicode = 7916;
+}

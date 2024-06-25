@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Hcaron;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (204,0);
+ref = caroncomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "383701B1-1FA8-4F13-A6D8-FBDD38A3F6E1";
+name = "Dec 15, 23 at 09:23";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (204,0);
+ref = caroncomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "70815E50-F432-49C9-9F9E-829E3BEE97CF";
+name = "{100} Dec 15, 23 at 09:24";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (204,0);
+ref = caroncomb;
+}
+);
+width = 700;
+}
+);
+unicode = 542;
+}

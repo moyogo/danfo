@@ -1,0 +1,80 @@
+{
+glyphname = dieresisbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (142,0);
+},
+{
+name = bottom;
+pos = (142,-153);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (8,-901);
+ref = dieresiscomb;
+}
+);
+width = 284;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (142,0);
+},
+{
+name = bottom;
+pos = (142,-153);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "A5F1AF7E-C3DA-44C9-B504-F481908EFD01";
+name = "Feb 21, 24 at 10:54";
+shapes = (
+{
+pos = (8,-901);
+ref = dieresiscomb;
+}
+);
+width = 284;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (142,0);
+},
+{
+name = bottom;
+pos = (142,-153);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5EC01A13-17A6-4F1B-AB92-91E0FF7FA49A";
+name = "Feb 21, 24 at 10:54";
+shapes = (
+{
+pos = (8,-901);
+ref = dieresiscomb;
+}
+);
+width = 284;
+}
+);
+unicode = 804;
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = aogonek;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Aogonek;
+}
+);
+width = 700;
+}
+);
+unicode = 261;
+}

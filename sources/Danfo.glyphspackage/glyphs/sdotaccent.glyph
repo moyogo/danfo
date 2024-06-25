@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = sdotaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Sdotaccent;
+}
+);
+width = 625;
+}
+);
+unicode = 7777;
+}

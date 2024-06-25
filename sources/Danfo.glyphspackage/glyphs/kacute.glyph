@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = kacute;
+kernLeft = H;
+kernRight = K;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Kacute;
+}
+);
+width = 697;
+}
+);
+unicode = 7729;
+}

@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = saltillo;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Saltillo;
+}
+);
+width = 517;
+}
+);
+unicode = 42892;
+}

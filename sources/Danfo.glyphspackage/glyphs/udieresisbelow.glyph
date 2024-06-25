@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = udieresisbelow;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Udieresisbelow;
+}
+);
+width = 683;
+}
+);
+unicode = 7795;
+}

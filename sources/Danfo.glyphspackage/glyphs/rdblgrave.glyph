@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = rdblgrave;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Rdblgrave;
+}
+);
+width = 699;
+}
+);
+unicode = 529;
+}

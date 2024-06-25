@@ -1,0 +1,161 @@
+{
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (151,716);
+},
+{
+name = breveacute;
+pos = (168,869);
+},
+{
+name = brevegrave;
+pos = (141,869);
+},
+{
+name = brevehookabove;
+pos = (154,887);
+},
+{
+name = brevetilde;
+pos = (154,886);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,745,o),
+(274,795,o),
+(274,871,c),
+(207,871,l),
+(196,835,o),
+(178,818,o),
+(151,818,cs),
+(126,818,o),
+(108,834,o),
+(97,871,c),
+(32,871,l),
+(35,792,o),
+(79,745,o),
+(151,745,cs)
+);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (151,716);
+},
+{
+name = breveacute;
+pos = (168,869);
+},
+{
+name = brevegrave;
+pos = (141,869);
+},
+{
+name = brevehookabove;
+pos = (154,887);
+},
+{
+name = brevetilde;
+pos = (154,886);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "3436B7B9-0B99-4BAC-8124-033DDBABD05D";
+name = "Jan 18, 24 at 10:10";
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,745,o),
+(274,795,o),
+(274,871,c),
+(210,871,l),
+(199,833,o),
+(180,815,o),
+(151,815,cs),
+(124,815,o),
+(105,832,o),
+(94,871,c),
+(32,871,l),
+(35,792,o),
+(79,745,o),
+(151,745,cs)
+);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (151,716);
+},
+{
+name = breveacute;
+pos = (168,869);
+},
+{
+name = brevegrave;
+pos = (141,869);
+},
+{
+name = brevehookabove;
+pos = (154,887);
+},
+{
+name = brevetilde;
+pos = (154,886);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "AE7F5C6F-BBAC-4DBC-A263-9AF0603BBACA";
+name = "Jan 18, 24 at 10:10";
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,745,o),
+(274,795,o),
+(274,871,c),
+(210,871,l),
+(199,833,o),
+(180,815,o),
+(151,815,cs),
+(124,815,o),
+(105,832,o),
+(94,871,c),
+(32,871,l),
+(35,792,o),
+(79,745,o),
+(151,745,cs)
+);
+}
+);
+width = 302;
+}
+);
+unicode = 774;
+}

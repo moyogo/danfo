@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Lcommaaccent.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (213,0);
+ref = commaaccentcomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BEB9900D-10BC-4EC5-BD77-E38E256A91AD";
+name = "Jan 15, 24 at 14:30";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (213,0);
+ref = commaaccentcomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "453CF31F-72F9-422A-9DF9-A109526FB4BD";
+name = "Jan 15, 24 at 14:30";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (213,0);
+ref = commaaccentcomb;
+}
+);
+width = 567;
+}
+);
+}

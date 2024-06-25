@@ -1,0 +1,28 @@
+{
+color = 5;
+glyphname = m;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (408,0);
+},
+{
+name = top;
+pos = (408,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = M;
+}
+);
+width = 768;
+}
+);
+unicode = 109;
+}

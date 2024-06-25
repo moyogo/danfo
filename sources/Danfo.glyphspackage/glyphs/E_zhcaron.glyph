@@ -1,0 +1,60 @@
+{
+color = 5;
+glyphname = Ezhcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 610;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "290351A4-338D-40A2-9E8D-F11EDEF90783";
+name = "{50} 9 Jan 24 at 18:00";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 610;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5FF5C547-FC39-4AFF-B475-2F061FFC6B9B";
+name = "{50} 9 Jan 24 at 18:00";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (160,0);
+ref = caroncomb;
+}
+);
+width = 610;
+}
+);
+unicode = 494;
+}

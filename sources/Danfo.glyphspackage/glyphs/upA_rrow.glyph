@@ -1,0 +1,29 @@
+{
+glyphname = upArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(19,432,l),
+(560,434,l),
+(291,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(239,125,l),
+(339,125,l),
+(338,448,l),
+(239,448,l)
+);
+}
+);
+width = 579;
+}
+);
+unicode = 8593;
+}

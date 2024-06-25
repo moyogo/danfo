@@ -1,0 +1,18 @@
+{
+glyphname = anglebracketright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+pos = (751,0);
+ref = anglebracketleft;
+scale = (-1,1);
+}
+);
+width = 751;
+}
+);
+unicode = 12297;
+}

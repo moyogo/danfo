@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = gacute.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Gacute.ss03;
+}
+);
+width = 627;
+}
+);
+}

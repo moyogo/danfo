@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Aring;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (217,0);
+ref = ringcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "78427633-0D67-43EA-84B5-04C75812E906";
+name = "{50} 9 Jan 24 at 20:24";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (217,0);
+ref = ringcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8A704E66-CE31-4674-9374-A5318C2D55BF";
+name = "9 Jan 24 at 20:24";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (217,0);
+ref = ringcomb;
+}
+);
+width = 700;
+}
+);
+unicode = 197;
+}

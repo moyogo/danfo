@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Ldotbelow.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (214,0);
+ref = dotbelowcomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "D5DA7DA8-B248-4119-8180-BA0D4E36DB5F";
+name = "Jan 15, 24 at 14:12";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (214,0);
+ref = dotbelowcomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "DCBBD195-2D35-42B5-8297-A14568E6D678";
+name = "Jan 15, 24 at 14:12";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (214,0);
+ref = dotbelowcomb;
+}
+);
+width = 567;
+}
+);
+}

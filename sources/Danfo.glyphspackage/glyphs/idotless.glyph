@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = idotless;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+}
+);
+width = 350;
+}
+);
+unicode = 305;
+}

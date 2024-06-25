@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = acircumflex;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Acircumflex;
+}
+);
+width = 700;
+}
+);
+unicode = 226;
+}

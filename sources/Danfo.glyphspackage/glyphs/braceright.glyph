@@ -1,0 +1,17 @@
+{
+glyphname = braceright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (491,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 484;
+}
+);
+unicode = 125;
+}

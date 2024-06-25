@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = ezh;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ezh;
+}
+);
+width = 610;
+}
+);
+unicode = 658;
+}

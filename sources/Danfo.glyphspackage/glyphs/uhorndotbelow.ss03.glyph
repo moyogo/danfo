@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = uhorndotbelow.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorndotbelow.ss03;
+}
+);
+width = 687;
+}
+);
+}

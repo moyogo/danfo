@@ -1,0 +1,181 @@
+{
+glyphname = circumflexcomb_hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (157,716);
+},
+{
+name = top;
+pos = (157,1023);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,847,l),
+(384,868,o),
+(404,897,o),
+(404,933,cs),
+(404,970,o),
+(370,1008,o),
+(315,1008,cs),
+(283,1008,o),
+(247,996,o),
+(226,980,c),
+(226,913,l),
+(244,933,o),
+(263,944,o),
+(285,944,cs),
+(299,944,o),
+(323,940,o),
+(323,914,cs),
+(323,894,o),
+(300,863,o),
+(279,847,c)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = circumflexcomb;
+},
+{
+pos = (196,138);
+ref = hookabovecomb;
+scale = (0.9552,0.9552);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (157,716);
+},
+{
+name = top;
+pos = (157,1023);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,847,l),
+(384,868,o),
+(404,897,o),
+(404,933,cs),
+(404,970,o),
+(370,1008,o),
+(315,1008,cs),
+(283,1008,o),
+(247,996,o),
+(226,980,c),
+(226,913,l),
+(244,933,o),
+(263,944,o),
+(285,944,cs),
+(299,944,o),
+(323,940,o),
+(323,914,cs),
+(323,894,o),
+(300,863,o),
+(279,847,c)
+);
+}
+);
+};
+layerId = "1764D185-778F-4DB6-90FD-A05869888943";
+name = "Jan 10, 24 at 20:49";
+shapes = (
+{
+alignment = 1;
+ref = circumflexcomb;
+},
+{
+pos = (196,138);
+ref = hookabovecomb;
+scale = (0.9552,0.9552);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (157,716);
+},
+{
+name = top;
+pos = (157,1023);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,847,l),
+(384,868,o),
+(404,897,o),
+(404,933,cs),
+(404,970,o),
+(370,1008,o),
+(315,1008,cs),
+(283,1008,o),
+(247,996,o),
+(226,980,c),
+(226,913,l),
+(244,933,o),
+(263,944,o),
+(285,944,cs),
+(299,944,o),
+(323,940,o),
+(323,914,cs),
+(323,894,o),
+(300,863,o),
+(279,847,c)
+);
+}
+);
+};
+layerId = "7B172C12-E91E-4D16-B1BB-5F847935DDFF";
+name = "Jan 10, 24 at 20:49";
+shapes = (
+{
+alignment = 1;
+ref = circumflexcomb;
+},
+{
+pos = (196,138);
+ref = hookabovecomb;
+scale = (0.9552,0.9552);
+}
+);
+width = 302;
+}
+);
+}

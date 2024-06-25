@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Uhorndotbelow.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5D902459-F791-4016-A698-2A63FE9B055F";
+name = "Jan 15, 24 at 15:21";
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "263C9A55-402F-45C7-818A-53347D94751C";
+name = "Jan 15, 24 at 15:21";
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = udotbelow;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Udotbelow;
+}
+);
+width = 683;
+}
+);
+unicode = 7909;
+}

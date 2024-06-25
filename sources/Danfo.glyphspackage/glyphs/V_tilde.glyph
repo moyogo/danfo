@@ -1,0 +1,90 @@
+{
+color = 5;
+glyphname = Vtilde;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = V;
+},
+{
+pos = (187,0);
+ref = tildecomb;
+}
+);
+width = 599;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "CB72DB7A-E2C3-45AB-B466-8296B4C1DAC6";
+name = "Jan 9, 24 at 16:48";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (187,0);
+ref = tildecomb;
+}
+);
+width = 599;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (330,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5330C2D4-46FA-4544-9E52-07336AB56556";
+name = "Jan 9, 24 at 16:48";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (187,0);
+ref = tildecomb;
+}
+);
+width = 599;
+}
+);
+unicode = 7804;
+}

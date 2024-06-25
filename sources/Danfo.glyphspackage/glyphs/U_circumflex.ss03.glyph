@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Ucircumflex.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (198,0);
+ref = circumflexcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1C757F2C-8B07-4A66-980D-AA2C766B64BF";
+name = "Jan 15, 24 at 15:11";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (198,0);
+ref = circumflexcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "CA5C37F1-3CD0-49EE-A15B-C898293B888F";
+name = "Jan 15, 24 at 15:11";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (198,0);
+ref = circumflexcomb;
+}
+);
+width = 687;
+}
+);
+}

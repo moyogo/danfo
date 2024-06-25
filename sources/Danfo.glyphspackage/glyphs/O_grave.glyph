@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ograve;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "F2DD2461-7121-4093-9015-B785CCEAA7AA";
+name = "Jan 10, 24 at 23:59";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9CC76D32-4E4C-49BE-8802-797DB4D18B8B";
+name = "Jan 10, 24 at 23:59";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 210;
+}

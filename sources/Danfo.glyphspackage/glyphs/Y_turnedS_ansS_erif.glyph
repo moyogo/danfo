@@ -1,0 +1,26 @@
+{
+glyphname = YturnedSansSerif;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,366,l),
+(651,0,l),
+(489,0,l),
+(335,228,l),
+(181,0,l),
+(19,0,l),
+(265,366,l),
+(265,716,l),
+(405,716,l)
+);
+}
+);
+width = 670;
+}
+);
+unicode = 8516;
+}

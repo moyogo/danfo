@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Pacute;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = P;
+},
+{
+pos = (246,-3);
+ref = acutecomb;
+}
+);
+width = 599;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "FE754682-CC02-422C-8387-BF20BA704E78";
+name = "Jan 11, 24 at 00:29";
+shapes = (
+{
+ref = P;
+},
+{
+pos = (246,-3);
+ref = acutecomb;
+}
+);
+width = 599;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "43D55E26-22D4-4B1D-A701-6112E7B65CA6";
+name = "Jan 11, 24 at 00:29";
+shapes = (
+{
+ref = P;
+},
+{
+pos = (246,-3);
+ref = acutecomb;
+}
+);
+width = 599;
+}
+);
+unicode = 7764;
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Aogonek;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (493,0);
+ref = ogonekcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "D5D9575D-AD77-45A9-A4A3-2537562C4416";
+name = "{50} 9 Jan 24 at 20:19";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (493,0);
+ref = ogonekcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9787D739-8CC3-4172-94D3-5C86FB2D07F9";
+name = "{50} 9 Jan 24 at 20:19";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (493,0);
+ref = ogonekcomb;
+}
+);
+width = 700;
+}
+);
+unicode = 260;
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = odotaccentmacron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Odotaccentmacron;
+}
+);
+width = 634;
+}
+);
+unicode = 561;
+}

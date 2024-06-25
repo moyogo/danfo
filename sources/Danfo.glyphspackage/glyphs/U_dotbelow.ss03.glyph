@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Udotbelow.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "DE3930ED-54CA-4D5C-A31C-AF02A3449484";
+name = "Jan 15, 24 at 15:18";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "BD86F5C6-5442-46FC-A791-61B672CCE8E3";
+name = "Jan 15, 24 at 15:18";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (274,0);
+ref = dotbelowcomb;
+}
+);
+width = 687;
+}
+);
+}

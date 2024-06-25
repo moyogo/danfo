@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ncommaaccent;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (276,0);
+ref = commaaccentcomb;
+}
+);
+width = 696;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "764CD543-D295-46D2-AC60-0084E20E3BF5";
+name = "Jan 10, 24 at 23:04";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (276,0);
+ref = commaaccentcomb;
+}
+);
+width = 696;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "6ABE27B9-FA3E-41EE-AEB3-516ED26985A3";
+name = "Jan 10, 24 at 23:04";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (276,0);
+ref = commaaccentcomb;
+}
+);
+width = 696;
+}
+);
+unicode = 325;
+}

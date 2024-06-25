@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = cstroke.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Cstroke.ss01;
+}
+);
+width = 589;
+}
+);
+}

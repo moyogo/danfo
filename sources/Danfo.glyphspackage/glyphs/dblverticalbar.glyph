@@ -1,0 +1,32 @@
+{
+glyphname = dblverticalbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,-133,l),
+(367,862,l),
+(229,862,l),
+(229,-133,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(167,-133,l),
+(167,862,l),
+(29,862,l),
+(29,-133,l)
+);
+}
+);
+width = 396;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 8214;
+}

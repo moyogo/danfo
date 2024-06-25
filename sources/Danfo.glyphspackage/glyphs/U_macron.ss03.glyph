@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Umacron.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (191,8);
+ref = macroncomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "35249CE8-80D7-4332-BC2B-A966C3710FC2";
+name = "Jan 15, 24 at 15:23";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (191,8);
+ref = macroncomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "B3336788-4845-4342-BCED-62343BF74E56";
+name = "Jan 15, 24 at 15:23";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (191,8);
+ref = macroncomb;
+}
+);
+width = 687;
+}
+);
+}

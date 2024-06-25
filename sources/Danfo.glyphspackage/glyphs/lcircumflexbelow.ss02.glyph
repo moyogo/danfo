@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = lcircumflexbelow.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lcircumflexbelow.ss02;
+}
+);
+width = 567;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Abrevehookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "D65A7814-A6FA-43F8-A5B0-6228E1D958E0";
+name = "{50} 9 Jan 24 at 20:02";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9FDBBF1E-2953-4D1E-A21F-860DC810AD16";
+name = "9 Jan 24 at 20:01";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7858;
+}

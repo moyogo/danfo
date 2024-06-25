@@ -1,0 +1,77 @@
+{
+color = 5;
+glyphname = Acircumflexdotbelow;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (197,0);
+ref = circumflexcomb;
+},
+{
+pos = (245,0);
+ref = dotbelowcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "F5A61D51-A5B7-4105-8DC1-C8EB971CDB24";
+name = "{50} 9 Jan 24 at 20:04";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (197,0);
+ref = circumflexcomb;
+},
+{
+pos = (245,0);
+ref = dotbelowcomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8CC5B4E2-AE90-4045-8522-7C957E10F301";
+name = "9 Jan 24 at 20:04";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (197,0);
+ref = circumflexcomb;
+},
+{
+pos = (245,0);
+ref = dotbelowcomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7852;
+}

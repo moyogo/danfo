@@ -1,0 +1,36 @@
+{
+glyphname = perthousand;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (27,408);
+ref = zero.dnom;
+},
+{
+closed = 1;
+nodes = (
+(606,335,l),
+(606,379,l),
+(4,379,l),
+(4,335,l)
+);
+},
+{
+alignment = -1;
+pos = (27,0);
+ref = zero.dnom;
+},
+{
+alignment = -1;
+pos = (306,0);
+ref = zero.dnom;
+}
+);
+width = 610;
+}
+);
+unicode = 8240;
+}

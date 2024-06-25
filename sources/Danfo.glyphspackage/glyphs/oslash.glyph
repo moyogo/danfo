@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = oslash;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Oslash;
+}
+);
+width = 634;
+}
+);
+unicode = 248;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = Lambda;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = lambda;
+}
+);
+width = 682;
+}
+);
+unicode = 923;
+}

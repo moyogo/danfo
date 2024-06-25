@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = zstroke;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (294,0);
+},
+{
+name = center;
+pos = (294,358);
+},
+{
+name = top;
+pos = (294,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Zstroke;
+}
+);
+width = 588;
+}
+);
+unicode = 438;
+}

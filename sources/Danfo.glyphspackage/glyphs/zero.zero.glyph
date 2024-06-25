@@ -1,0 +1,16 @@
+{
+glyphname = zero.zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 628;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

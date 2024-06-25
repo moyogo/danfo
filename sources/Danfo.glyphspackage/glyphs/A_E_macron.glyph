@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = AEmacron;
+kernLeft = A;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (386,8);
+ref = macroncomb;
+}
+);
+width = 890;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "0DE14514-8BD9-4FF6-AB7F-115E30659F37";
+name = "{50} 9 Jan 24 at 22:47";
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (386,8);
+ref = macroncomb;
+}
+);
+width = 890;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "C83D511C-C6DB-498D-89E9-76ED103F3F64";
+name = "9 Jan 24 at 22:46";
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (386,8);
+ref = macroncomb;
+}
+);
+width = 890;
+}
+);
+unicode = 482;
+}

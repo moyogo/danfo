@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = t;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+},
+{
+name = topright;
+pos = (612,589);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = T;
+}
+);
+width = 552;
+}
+);
+unicode = 116;
+}

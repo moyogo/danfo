@@ -1,0 +1,799 @@
+{
+.appVersion = "3311";
+.formatVersion = 3;
+axes = (
+{
+name = "Element Shape";
+tag = ELSH;
+}
+);
+customParameters = (
+{
+name = "Virtual Master";
+value = (
+{
+Axis = "Element Shape";
+Location = 0;
+}
+);
+},
+{
+name = "Virtual Master";
+value = (
+{
+Axis = "Element Shape";
+Location = 50;
+}
+);
+},
+{
+name = "Virtual Master";
+value = (
+{
+Axis = "Element Shape";
+Location = 100;
+}
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = blueScale;
+value = 0.04;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+ELSH = {
+0 = 0;
+50 = 50;
+100 = 100;
+};
+};
+},
+{
+name = "Variable Font Origin";
+value = m01;
+},
+{
+name = fsType;
+value = (
+);
+}
+);
+date = "2023-02-21 22:06:01 +0000";
+familyName = Danfo;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn NSM;
+languagesystem latn CAT;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature pnum;
+feature tnum;
+feature onum;
+feature case;
+feature zero;
+feature fwid;
+feature ss01;
+feature ss02;
+feature ss03;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	lookupflag 0;
+	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language NSM;
+lookup locl_latn_2 {
+	sub Eng by Eng.loclNSM;
+	sub eng by eng.loclNSM;
+} locl_latn_2;
+
+script latn;
+language CAT;
+lookup locl_latn_3 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+},
+{
+automatic = 1;
+code = "sub hyphen by hyphen.full;
+";
+tag = fwid;
+},
+{
+automatic = 1;
+code = "sub C by C.ss01;
+sub Cacute by Cacute.ss01;
+sub Ccaron by Ccaron.ss01;
+sub Ccedilla by Ccedilla.ss01;
+sub Ccedillaacute by Ccedillaacute.ss01;
+sub Cdotaccent by Cdotaccent.ss01;
+sub Chook by Chook.ss01;
+sub Cstroke by Cstroke.ss01;
+sub c by c.ss01;
+sub cacute by cacute.ss01;
+sub ccaron by ccaron.ss01;
+sub ccedilla by ccedilla.ss01;
+sub ccedillaacute by ccedillaacute.ss01;
+sub cdotaccent by cdotaccent.ss01;
+sub chook by chook.ss01;
+sub cstroke by cstroke.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "Alt C";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub J by J.ss02;
+sub Jacute by Jacute.ss02;
+sub Jcircumflex by Jcircumflex.ss02;
+sub Jstroke by Jstroke.ss02;
+sub L by L.ss02;
+sub Lacute by Lacute.ss02;
+sub Lbar by Lbar.ss02;
+sub Lbelt by Lbelt.ss02;
+sub Lcaron by Lcaron.ss02;
+sub Lcircumflexbelow by Lcircumflexbelow.ss02;
+sub Lcommaaccent by Lcommaaccent.ss02;
+sub Ldotbelow by Ldotbelow.ss02;
+sub Ldotbelowmacron by Ldotbelowmacron.ss02;
+sub Ldoublebar by Ldoublebar.ss02;
+sub Lmacronbelow by Lmacronbelow.ss02;
+sub Lmiddletilde by Lmiddletilde.ss02;
+sub Lslash by Lslash.ss02;
+sub j by j.ss02;
+sub jacute by jacute.ss02;
+sub jstroke by jstroke.ss02;
+sub l by l.ss02;
+sub lacute by lacute.ss02;
+sub lbar by lbar.ss02;
+sub lbelt by lbelt.ss02;
+sub lcaron by lcaron.ss02;
+sub lcircumflexbelow by lcircumflexbelow.ss02;
+sub lcommaaccent by lcommaaccent.ss02;
+sub ldotbelow by ldotbelow.ss02;
+sub ldotbelowmacron by ldotbelowmacron.ss02;
+sub ldoublebar by ldoublebar.ss02;
+sub lmacronbelow by lmacronbelow.ss02;
+sub lmiddletilde by lmiddletilde.ss02;
+sub lslash by lslash.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "Alt J and L";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub G by G.ss03;
+sub Gacute by Gacute.ss03;
+sub Gbreve by Gbreve.ss03;
+sub Gcaron by Gcaron.ss03;
+sub Gcommaaccent by Gcommaaccent.ss03;
+sub Gdotaccent by Gdotaccent.ss03;
+sub Ghook by Ghook.ss03;
+sub Gmacron by Gmacron.ss03;
+sub Gstroke by Gstroke.ss03;
+sub U by U.ss03;
+sub Uacute by Uacute.ss03;
+sub Ubar by Ubar.ss03;
+sub Ubreve by Ubreve.ss03;
+sub Ucaron by Ucaron.ss03;
+sub Ucircumflex by Ucircumflex.ss03;
+sub Ucircumflexbelow by Ucircumflexbelow.ss03;
+sub Udblgrave by Udblgrave.ss03;
+sub Udieresis by Udieresis.ss03;
+sub Udieresisacute by Udieresisacute.ss03;
+sub Udieresisbelow by Udieresisbelow.ss03;
+sub Udieresiscaron by Udieresiscaron.ss03;
+sub Udieresisgrave by Udieresisgrave.ss03;
+sub Udieresismacron by Udieresismacron.ss03;
+sub Udotbelow by Udotbelow.ss03;
+sub Ugrave by Ugrave.ss03;
+sub Uhookabove by Uhookabove.ss03;
+sub Uhorn by Uhorn.ss03;
+sub Uhornacute by Uhornacute.ss03;
+sub Uhorndotbelow by Uhorndotbelow.ss03;
+sub Uhorngrave by Uhorngrave.ss03;
+sub Uhornhookabove by Uhornhookabove.ss03;
+sub Uhorntilde by Uhorntilde.ss03;
+sub Uinvertedbreve by Uinvertedbreve.ss03;
+sub Umacron by Umacron.ss03;
+sub Umacrondieresis by Umacrondieresis.ss03;
+sub Uogonek by Uogonek.ss03;
+sub Uring by Uring.ss03;
+sub Utilde by Utilde.ss03;
+sub Utildeacute by Utildeacute.ss03;
+sub Utildebelow by Utildebelow.ss03;
+sub g by g.ss03;
+sub gacute by gacute.ss03;
+sub gbreve by gbreve.ss03;
+sub gcaron by gcaron.ss03;
+sub gcommaaccent by gcommaaccent.ss03;
+sub gdotaccent by gdotaccent.ss03;
+sub ghook by ghook.ss03;
+sub gmacron by gmacron.ss03;
+sub gstroke by gstroke.ss03;
+sub u by u.ss03;
+sub uacute by uacute.ss03;
+sub ubar by ubar.ss03;
+sub ubreve by ubreve.ss03;
+sub ucaron by ucaron.ss03;
+sub ucircumflex by ucircumflex.ss03;
+sub ucircumflexbelow by ucircumflexbelow.ss03;
+sub udblgrave by udblgrave.ss03;
+sub udieresis by udieresis.ss03;
+sub udieresisacute by udieresisacute.ss03;
+sub udieresisbelow by udieresisbelow.ss03;
+sub udieresiscaron by udieresiscaron.ss03;
+sub udieresisgrave by udieresisgrave.ss03;
+sub udieresismacron by udieresismacron.ss03;
+sub udotbelow by udotbelow.ss03;
+sub ugrave by ugrave.ss03;
+sub uhookabove by uhookabove.ss03;
+sub uhorn by uhorn.ss03;
+sub uhornacute by uhornacute.ss03;
+sub uhorndotbelow by uhorndotbelow.ss03;
+sub uhorngrave by uhorngrave.ss03;
+sub uhornhookabove by uhornhookabove.ss03;
+sub uhorntilde by uhorntilde.ss03;
+sub uinvertedbreve by uinvertedbreve.ss03;
+sub umacron by umacron.ss03;
+sub umacrondieresis by umacrondieresis.ss03;
+sub uogonek by uogonek.ss03;
+sub uring by uring.ss03;
+sub utilde by utilde.ss03;
+sub utildeacute by utildeacute.ss03;
+sub utildebelow by utildebelow.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "Alt G and U";
+}
+);
+tag = ss03;
+}
+);
+fontMaster = (
+{
+axesValues = (
+0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = "Element Shape";
+Location = 0;
+}
+);
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = winAscent;
+value = 1065;
+},
+{
+name = winDescent;
+value = 288;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
+guides = (
+{
+pos = (457,867);
+},
+{
+pos = (448,755);
+}
+);
+iconName = Bold;
+id = m01;
+metricValues = (
+{
+pos = 1050;
+},
+{
+over = 6;
+pos = 716;
+},
+{
+pos = 434;
+},
+{
+over = -6;
+},
+{
+pos = -250;
+}
+);
+name = Regular;
+stemValues = (
+63,
+292
+);
+}
+);
+instances = (
+{
+exports = 0;
+name = Regular;
+type = variable;
+},
+{
+axesValues = (
+0
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+50
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Comb;
+},
+{
+axesValues = (
+100
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Claw;
+}
+);
+kerningLTR = {
+m01 = {
+"@MMK_L_A" = {
+"@MMK_R_A" = 0;
+"@MMK_R_Glottal" = -76;
+"@MMK_R_Hturned" = -106;
+"@MMK_R_LeftHook" = -50;
+"@MMK_R_V" = -18;
+"@MMK_R_W" = -12;
+};
+"@MMK_L_F" = {
+"@MMK_R_A" = -76;
+"@MMK_R_J" = -40;
+};
+"@MMK_L_G" = {
+"@MMK_R_Glottal" = -46;
+};
+"@MMK_L_H" = {
+"@MMK_R_Glottal" = -18;
+};
+"@MMK_L_L" = {
+"@MMK_R_V" = -10;
+};
+"@MMK_L_P" = {
+"@MMK_R_A" = -86;
+"@MMK_R_V" = 30;
+"@MMK_R_esh" = -50;
+};
+"@MMK_L_Q" = {
+"@MMK_R_Glottal" = -42;
+"@MMK_R_V" = -12;
+};
+"@MMK_L_Qhook" = {
+"@MMK_R_A" = -50;
+};
+"@MMK_L_RightCaron" = {
+"@MMK_R_A" = -77;
+"@MMK_R_O" = -28;
+};
+"@MMK_L_RightHook" = {
+"@MMK_R_A" = -56;
+};
+"@MMK_L_T" = {
+"@MMK_R_esh" = -10;
+};
+"@MMK_L_TRightCaron" = {
+"@MMK_R_A" = -123;
+};
+"@MMK_L_V" = {
+"@MMK_R_A" = -18;
+};
+"@MMK_L_esh" = {
+"@MMK_R_A" = -60;
+};
+"@MMK_L_fraction" = {
+"@MMK_R_zero.dnom" = -304;
+};
+"@MMK_L_zero.dnom" = {
+"@MMK_R_fraction" = -304;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+name = "Bottom Serifs";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Seyi Olusanya, David Udoh, Eyiyemi Adegbite, Mirko Velimirović";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org/";
+},
+{
+key = manufacturerURL;
+value = "http://www.afrotype.com";
+}
+);
+settings = {
+previewRemoveOverlap = 0;
+};
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

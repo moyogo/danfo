@@ -1,0 +1,16 @@
+{
+glyphname = primemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-50,0);
+ref = minute;
+}
+);
+width = 247;
+}
+);
+unicode = 697;
+}

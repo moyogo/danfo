@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = uhorntilde.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorntilde.ss03;
+}
+);
+width = 687;
+}
+);
+}

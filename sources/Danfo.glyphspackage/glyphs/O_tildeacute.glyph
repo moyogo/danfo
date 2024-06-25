@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Otildeacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (263,146);
+ref = acutecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "4AB80D42-3480-4748-8FEB-B4B2F04ADAA2";
+name = "Jan 11, 24 at 00:22";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (263,146);
+ref = acutecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "AF4C0A9B-DC91-4CC3-B476-1BC6ED410381";
+name = "Jan 11, 24 at 00:22";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+},
+{
+pos = (263,146);
+ref = acutecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7756;
+}

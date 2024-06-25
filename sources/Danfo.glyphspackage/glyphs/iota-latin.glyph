@@ -1,0 +1,50 @@
+{
+color = 5;
+glyphname = "iota-latin";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Iota-latin";
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "E168EA7A-C6B3-4DD6-A9D9-F0840670E1AB";
+name = "Feb 2, 24 at 15:52";
+shapes = (
+{
+ref = "Iota-latin";
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "811F492C-1902-44F1-A53B-54066AC0627E";
+name = "Feb 2, 24 at 15:52";
+shapes = (
+{
+ref = "Iota-latin";
+}
+);
+width = 350;
+}
+);
+unicode = 617;
+}

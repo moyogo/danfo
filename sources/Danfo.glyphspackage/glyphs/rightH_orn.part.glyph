@@ -1,0 +1,114 @@
+{
+glyphname = rightHorn.part;
+layers = (
+{
+anchors = (
+{
+name = _horn;
+pos = (92,636);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,636,l),
+(150,665,o),
+(183,719,o),
+(183,770,cs),
+(183,814,o),
+(175,840,o),
+(163,862,c),
+(54,862,l),
+(79,826,o),
+(90,795,o),
+(90,763,cs),
+(90,723,o),
+(73,694,o),
+(20,636,c)
+);
+}
+);
+width = 203;
+},
+{
+anchors = (
+{
+name = _horn;
+pos = (92,636);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "DDB895CB-41EC-499B-8876-E2A3EF052EAB";
+name = "Jan 27, 24 at 08:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,636,l),
+(150,665,o),
+(183,719,o),
+(183,770,cs),
+(183,814,o),
+(175,840,o),
+(163,862,c),
+(54,862,l),
+(79,826,o),
+(90,795,o),
+(90,763,cs),
+(90,723,o),
+(73,694,o),
+(20,636,c)
+);
+}
+);
+width = 203;
+},
+{
+anchors = (
+{
+name = _horn;
+pos = (92,636);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "574F0019-A879-47C2-95D2-10180E2BF6D9";
+name = "Jan 27, 24 at 08:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,636,l),
+(150,665,o),
+(183,719,o),
+(183,770,cs),
+(183,814,o),
+(175,840,o),
+(163,862,c),
+(54,862,l),
+(79,826,o),
+(90,795,o),
+(90,763,cs),
+(90,723,o),
+(73,694,o),
+(20,636,c)
+);
+}
+);
+width = 203;
+}
+);
+metricLeft = period;
+metricRight = period;
+}

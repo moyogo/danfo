@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = cstroke;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Cstroke;
+}
+);
+width = 616;
+}
+);
+unicode = 572;
+}

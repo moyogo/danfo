@@ -1,0 +1,94 @@
+{
+glyphname = gravecomb_macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (154,716);
+},
+{
+name = top;
+pos = (154,967);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (30,0);
+ref = gravecomb;
+},
+{
+alignment = -1;
+pos = (-1,236);
+ref = macroncomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (154,716);
+},
+{
+name = top;
+pos = (154,967);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BCD839C0-D48D-462C-B3AC-1E2E59B1A146";
+name = "Jan 10, 24 at 17:36";
+shapes = (
+{
+pos = (30,0);
+ref = gravecomb;
+},
+{
+alignment = -1;
+pos = (-1,236);
+ref = macroncomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (154,716);
+},
+{
+name = top;
+pos = (154,967);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F1B2AA5A-B529-474A-B746-F4213846C25F";
+name = "Jan 10, 24 at 17:36";
+shapes = (
+{
+pos = (30,0);
+ref = gravecomb;
+},
+{
+alignment = -1;
+pos = (-1,236);
+ref = macroncomb;
+}
+);
+width = 310;
+}
+);
+}

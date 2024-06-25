@@ -1,0 +1,83 @@
+{
+glyphname = strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (157,540);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,505,l),
+(302,575,l),
+(10,575,l),
+(10,505,l)
+);
+}
+);
+width = 312;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (157,540);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "8C06D3DA-278F-421A-A05D-7098D4D5FEEB";
+name = "Jan 10, 24 at 17:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,505,l),
+(302,575,l),
+(10,575,l),
+(10,505,l)
+);
+}
+);
+width = 312;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (157,540);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5105DD53-D0FC-4320-B9CC-7D7AD5EC3E70";
+name = "Jan 10, 24 at 17:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,505,l),
+(302,575,l),
+(10,575,l),
+(10,505,l)
+);
+}
+);
+width = 312;
+}
+);
+unicode = 821;
+}

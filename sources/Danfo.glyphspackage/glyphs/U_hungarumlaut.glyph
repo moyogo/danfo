@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = Uhungarumlaut;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (177,0);
+ref = hungarumlautcomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6714923D-99E7-4B31-9E85-A60D62116E49";
+name = "Jan 10, 24 at 09:30";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (177,0);
+ref = hungarumlautcomb;
+}
+);
+width = 683;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = horn;
+pos = (658,636);
+},
+{
+name = ogonek;
+pos = (658,0);
+},
+{
+name = top;
+pos = (346,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9E4B58CD-B5E7-4E9E-83EC-FD7D793DF09B";
+name = "Jan 10, 24 at 09:30";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (177,0);
+ref = hungarumlautcomb;
+}
+);
+width = 683;
+}
+);
+unicode = 368;
+}

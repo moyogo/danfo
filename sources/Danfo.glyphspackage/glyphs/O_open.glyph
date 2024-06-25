@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Oopen;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (616,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "36392BB1-804D-415F-BF46-6AF276CDA92E";
+name = "Jan 11, 24 at 00:20";
+shapes = (
+{
+pos = (616,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (398,-6);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "27E1A924-492C-4A51-AF19-DD0B9DE99102";
+name = "Jan 11, 24 at 00:20";
+shapes = (
+{
+pos = (616,0);
+ref = C;
+scale = (-1,1);
+}
+);
+width = 616;
+}
+);
+unicode = 390;
+}

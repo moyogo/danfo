@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ccircumflex;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ccircumflex;
+}
+);
+width = 616;
+}
+);
+unicode = 265;
+}

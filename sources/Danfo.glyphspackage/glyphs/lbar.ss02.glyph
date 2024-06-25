@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = lbar.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lbar.ss02;
+}
+);
+width = 567;
+}
+);
+}

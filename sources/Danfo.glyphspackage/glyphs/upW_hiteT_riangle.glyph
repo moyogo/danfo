@@ -1,0 +1,34 @@
+{
+glyphname = upWhiteTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokePos = "1";
+};
+closed = 1;
+nodes = (
+(603.865,203.551,l),
+(153.67,205.469,l),
+(371.733,571.253,l)
+);
+},
+{
+attr = {
+strokePos = "1";
+};
+closed = 1;
+nodes = (
+(29,135,l),
+(733,132,l),
+(370,707,l)
+);
+}
+);
+width = 762;
+}
+);
+unicode = 9651;
+}

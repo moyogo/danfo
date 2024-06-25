@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = uogonek.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uogonek.ss03;
+}
+);
+width = 687;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ncaron;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ncaron;
+}
+);
+width = 696;
+}
+);
+unicode = 328;
+}

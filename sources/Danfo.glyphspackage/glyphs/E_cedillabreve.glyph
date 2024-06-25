@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Ecedillabreve;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (200,0);
+ref = cedillacomb;
+},
+{
+pos = (163,0);
+ref = brevecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "4C21C694-1D71-44CA-A919-0207129DC6C3";
+name = "{50} 9 Jan 24 at 17:01";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (200,0);
+ref = cedillacomb;
+},
+{
+pos = (163,0);
+ref = brevecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "BB1D8F16-2F41-4BAC-B3E0-3C681723EAE8";
+name = "9 Jan 24 at 17:01";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (200,0);
+ref = cedillacomb;
+},
+{
+pos = (163,0);
+ref = brevecomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7708;
+}

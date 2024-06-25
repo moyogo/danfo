@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Ucaron.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (201,0);
+ref = caroncomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "944FD9B5-CED7-4E63-9BF5-DDED3DE870BC";
+name = "Jan 15, 24 at 15:10";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (201,0);
+ref = caroncomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "C12FE5E2-02CA-497A-83BE-95C9FEFB2680";
+name = "Jan 15, 24 at 15:10";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (201,0);
+ref = caroncomb;
+}
+);
+width = 687;
+}
+);
+}

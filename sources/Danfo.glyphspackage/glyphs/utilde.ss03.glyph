@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = utilde.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Utilde.ss03;
+}
+);
+width = 687;
+}
+);
+}

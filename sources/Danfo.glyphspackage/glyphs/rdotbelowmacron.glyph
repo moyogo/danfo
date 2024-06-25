@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = rdotbelowmacron;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Rdotbelowmacron;
+}
+);
+width = 699;
+}
+);
+unicode = 7773;
+}

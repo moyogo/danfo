@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ecircumflexgrave;
+kernLeft = E;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ecircumflexgrave;
+}
+);
+width = 576;
+}
+);
+unicode = 7873;
+}

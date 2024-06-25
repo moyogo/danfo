@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = lmacronbelow.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lmacronbelow.ss02;
+}
+);
+width = 567;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ocircumflex;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "846E9C4E-2412-4792-89B2-880C52E7AE50";
+name = "Jan 11, 24 at 00:02";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F8FD181F-DF5F-482A-8031-505280FA9710";
+name = "Jan 11, 24 at 00:02";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb;
+}
+);
+width = 634;
+}
+);
+unicode = 212;
+}

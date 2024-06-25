@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = uring;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uring;
+}
+);
+width = 683;
+}
+);
+unicode = 367;
+}

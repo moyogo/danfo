@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = racute;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Racute;
+}
+);
+width = 699;
+}
+);
+unicode = 341;
+}

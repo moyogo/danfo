@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = sobliquestroke;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Sobliquestroke;
+}
+);
+width = 625;
+}
+);
+unicode = 42921;
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = hhook;
+kernLeft = LeftHook;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Hhook;
+}
+);
+width = 787;
+}
+);
+unicode = 614;
+}

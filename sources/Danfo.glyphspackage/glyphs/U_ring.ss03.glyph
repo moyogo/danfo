@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Uring.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (218,0);
+ref = ringcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5F25E538-4FE4-4448-AD14-8DB8E692D876";
+name = "Jan 15, 24 at 15:25";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (218,0);
+ref = ringcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8737653E-5DD0-471B-BEDD-C81EE7BB9994";
+name = "Jan 15, 24 at 15:25";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (218,0);
+ref = ringcomb;
+}
+);
+width = 687;
+}
+);
+}

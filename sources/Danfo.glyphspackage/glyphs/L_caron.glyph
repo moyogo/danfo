@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Lcaron;
+kernLeft = L;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (333,62);
+ref = caroncomb.alt;
+}
+);
+width = 584;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "891B9D66-3F95-4985-8ECF-A5DD855C2DCB";
+name = "Jan 17, 24 at 10:27";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (333,62);
+ref = caroncomb.alt;
+}
+);
+width = 584;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "61F0F614-1298-4712-A57D-AD7CAF5A0BB1";
+name = "Jan 17, 24 at 10:27";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (333,62);
+ref = caroncomb.alt;
+}
+);
+width = 584;
+}
+);
+unicode = 317;
+}

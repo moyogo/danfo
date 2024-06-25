@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ohungarumlaut;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (147,0);
+ref = hungarumlautcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "E890810F-DA8F-440B-9D42-E54A43D0CFA2";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (147,0);
+ref = hungarumlautcomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "F5F4D263-B42C-46D7-816B-362EA9C1F2F7";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (147,0);
+ref = hungarumlautcomb;
+}
+);
+width = 634;
+}
+);
+unicode = 336;
+}

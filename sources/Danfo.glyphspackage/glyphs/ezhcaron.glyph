@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = ezhcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ezhcaron;
+}
+);
+width = 610;
+}
+);
+unicode = 495;
+}

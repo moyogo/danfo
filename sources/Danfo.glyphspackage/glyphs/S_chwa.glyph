@@ -1,0 +1,56 @@
+{
+color = 5;
+glyphname = Schwa;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (576,716);
+ref = E;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1BFF7EA7-7E99-4728-AF8E-DE871DD052FA";
+name = "Feb 2, 24 at 15:52";
+shapes = (
+{
+angle = 180;
+pos = (576,716);
+ref = E;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "B3D31A5A-6B63-4D90-8B27-4795D444216F";
+name = "Feb 2, 24 at 15:52";
+shapes = (
+{
+angle = 180;
+pos = (576,716);
+ref = E;
+}
+);
+width = 576;
+}
+);
+unicode = 399;
+}

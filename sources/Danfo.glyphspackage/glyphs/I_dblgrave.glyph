@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Idblgrave;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-29,0);
+ref = dblgravecomb;
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "004A5B00-D86E-4621-B98F-49BE2C9B75BB";
+name = "Jan 10, 24 at 22:11";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-29,0);
+ref = dblgravecomb;
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "7585D47B-154E-4DD1-9905-EF5C9F5513D0";
+name = "Jan 10, 24 at 22:11";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-29,0);
+ref = dblgravecomb;
+}
+);
+width = 350;
+}
+);
+unicode = 520;
+}

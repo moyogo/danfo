@@ -1,0 +1,14 @@
+{
+glyphname = two.osf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = two;
+}
+);
+width = 603;
+}
+);
+}

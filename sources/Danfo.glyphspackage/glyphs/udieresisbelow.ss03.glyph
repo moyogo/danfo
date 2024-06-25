@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = udieresisbelow.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Udieresisbelow.ss03;
+}
+);
+width = 687;
+}
+);
+}

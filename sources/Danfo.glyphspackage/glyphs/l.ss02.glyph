@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = l.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.ss02;
+}
+);
+width = 567;
+}
+);
+}

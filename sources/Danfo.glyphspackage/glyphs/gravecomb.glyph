@@ -1,0 +1,119 @@
+{
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _brevegrave;
+pos = (145,738);
+},
+{
+name = _circumflexgrave;
+pos = (-10,769);
+},
+{
+name = _top;
+pos = (160,716);
+},
+{
+name = top;
+pos = (124,851);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,757,l),
+(140,871,l),
+(10,873,l),
+(114,757,l)
+);
+}
+);
+width = 223;
+},
+{
+anchors = (
+{
+name = _brevegrave;
+pos = (145,738);
+},
+{
+name = _circumflexgrave;
+pos = (-10,769);
+},
+{
+name = _top;
+pos = (160,716);
+},
+{
+name = top;
+pos = (124,851);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "A29F6A34-1AB2-4B91-8009-CBA53176CC23";
+name = "Jan 10, 24 at 20:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,757,l),
+(140,871,l),
+(10,873,l),
+(114,757,l)
+);
+}
+);
+width = 223;
+},
+{
+anchors = (
+{
+name = _brevegrave;
+pos = (145,738);
+},
+{
+name = _circumflexgrave;
+pos = (-10,769);
+},
+{
+name = _top;
+pos = (160,716);
+},
+{
+name = top;
+pos = (124,851);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5874377F-9AC5-4AC2-AAA1-1982C01E2E71";
+name = "Jan 10, 24 at 20:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,757,l),
+(140,871,l),
+(10,873,l),
+(114,757,l)
+);
+}
+);
+width = 223;
+}
+);
+unicode = 768;
+}

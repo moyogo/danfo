@@ -1,0 +1,92 @@
+{
+glyphname = macroncomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (155,716);
+},
+{
+name = top;
+pos = (155,981);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+},
+{
+pos = (94,114);
+ref = acutecomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (155,716);
+},
+{
+name = top;
+pos = (155,981);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BA5F80F8-0B75-482B-8902-E578C886869F";
+name = "Jan 26, 24 at 06:33";
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+},
+{
+pos = (94,114);
+ref = acutecomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (155,716);
+},
+{
+name = top;
+pos = (155,981);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5DE16B61-F3E3-4B85-98EA-C3C87247361C";
+name = "Jan 26, 24 at 06:33";
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+},
+{
+pos = (94,114);
+ref = acutecomb;
+}
+);
+width = 310;
+}
+);
+}

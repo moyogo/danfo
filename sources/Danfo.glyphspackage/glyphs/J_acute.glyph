@@ -1,0 +1,61 @@
+{
+color = 5;
+glyphname = Jacute;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (378,0);
+ref = acutecomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C8D70FC2-8E61-4275-85F0-22AF9F278620";
+name = "Jan 10, 24 at 22:29";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (378,0);
+ref = acutecomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "3B2AEDE1-4873-426C-9423-87A9ADADB1A5";
+name = "Jan 10, 24 at 22:29";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (378,0);
+ref = acutecomb;
+}
+);
+width = 620;
+}
+);
+}

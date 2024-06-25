@@ -1,0 +1,17 @@
+{
+glyphname = downBlackTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (762,872);
+ref = upBlackTriangle;
+}
+);
+width = 762;
+}
+);
+unicode = 9660;
+}

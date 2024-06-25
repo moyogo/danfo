@@ -1,0 +1,104 @@
+{
+color = 5;
+glyphname = Tmacronbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (124,0);
+ref = macronbelowcomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "4E85192A-362D-415E-A621-0FB2E1300BFD";
+name = "Jan 9, 24 at 15:26";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (124,0);
+ref = macronbelowcomb;
+}
+);
+width = 552;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (271,0);
+},
+{
+name = center;
+pos = (271,358);
+},
+{
+name = top;
+pos = (271,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "B3DD7A73-6667-42D7-94AE-631E28B3E680";
+name = "Jan 9, 24 at 15:26";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (124,0);
+ref = macronbelowcomb;
+}
+);
+width = 552;
+}
+);
+unicode = 7790;
+}

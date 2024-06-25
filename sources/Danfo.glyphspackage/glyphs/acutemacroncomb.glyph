@@ -1,0 +1,34 @@
+{
+glyphname = acutemacroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (208,900);
+},
+{
+name = top;
+pos = (208,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(200,604,l),
+(383,604,l),
+(383,716,l),
+(232,716,l),
+(170,716,l),
+(32,576,l),
+(71,487,l)
+);
+}
+);
+width = 415;
+}
+);
+unicode = 7623;
+}

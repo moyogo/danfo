@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Gbreve.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (177,0);
+ref = brevecomb;
+}
+);
+width = 627;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6D1DF9DB-8DB5-4578-A265-AD1CA3DAD28F";
+name = "Jan 15, 24 at 14:47";
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (177,0);
+ref = brevecomb;
+}
+);
+width = 627;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "E4870A5A-57F8-431D-A00B-86EF5A48CEEC";
+name = "Jan 15, 24 at 14:47";
+shapes = (
+{
+ref = G.ss03;
+},
+{
+pos = (177,0);
+ref = brevecomb;
+}
+);
+width = 627;
+}
+);
+}

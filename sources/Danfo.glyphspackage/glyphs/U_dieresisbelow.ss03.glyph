@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Udieresisbelow.ss03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (202,0);
+ref = dieresisbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C2C9DF44-B5BB-4AFB-8E4B-E499AF60307E";
+name = "Jan 15, 24 at 15:12";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (202,0);
+ref = dieresisbelowcomb;
+}
+);
+width = 687;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "694A795D-09B4-435A-B812-F8A585FD49FF";
+name = "Jan 15, 24 at 15:12";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (202,0);
+ref = dieresisbelowcomb;
+}
+);
+width = 687;
+}
+);
+}

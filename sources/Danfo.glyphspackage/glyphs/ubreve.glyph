@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ubreve;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ubreve;
+}
+);
+width = 683;
+}
+);
+unicode = 365;
+}

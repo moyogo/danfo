@@ -1,0 +1,19 @@
+{
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (363,0);
+ref = "leftanglebracket-math";
+scale = (-1,1);
+}
+);
+width = 363;
+}
+);
+metricLeft = o;
+metricRight = o;
+unicode = 10217;
+}

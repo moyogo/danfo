@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ocircumflextilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "50CC516B-7DF8-4172-AF81-6FF7347F717F";
+name = "Jan 10, 24 at 23:57";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "73276A0E-A6C0-4839-A1D0-AA18DE7465C9";
+name = "Jan 10, 24 at 23:57";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (169,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7894;
+}

@@ -1,0 +1,15 @@
+{
+color = 5;
+glyphname = jacute.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Jacute.ss02;
+}
+);
+width = 574;
+}
+);
+}

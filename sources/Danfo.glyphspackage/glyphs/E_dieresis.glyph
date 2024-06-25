@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Edieresis;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (164,0);
+ref = dieresiscomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "382DF85B-E16B-4340-A89B-AA39B677CE5C";
+name = "{50} 9 Jan 24 at 17:05";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (164,0);
+ref = dieresiscomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "6998B022-8853-4546-9E39-28E4DEEAD0F2";
+name = "{50} 9 Jan 24 at 17:05";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (164,0);
+ref = dieresiscomb;
+}
+);
+width = 576;
+}
+);
+unicode = 203;
+}

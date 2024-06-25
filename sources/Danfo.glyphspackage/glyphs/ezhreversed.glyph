@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = ezhreversed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ezhreversed;
+}
+);
+width = 610;
+}
+);
+unicode = 441;
+}

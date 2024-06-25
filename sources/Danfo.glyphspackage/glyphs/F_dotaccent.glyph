@@ -1,0 +1,64 @@
+{
+color = 5;
+glyphname = Fdotaccent;
+kernLeft = H;
+kernRight = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (216,0);
+ref = dotaccentcomb;
+}
+);
+width = 557;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5272BEEF-2C96-49CE-AA78-C05386C9C499";
+name = "{50} 9 Jan 24 at 18:18";
+shapes = (
+{
+alignment = -1;
+ref = F;
+},
+{
+alignment = -1;
+pos = (216,0);
+ref = dotaccentcomb;
+}
+);
+width = 553;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "CCC9DC82-74E8-408E-8974-DCB8936B3E11";
+name = "9 Jan 24 at 18:18";
+shapes = (
+{
+ref = F;
+},
+{
+pos = (216,0);
+ref = dotaccentcomb;
+}
+);
+width = 557;
+}
+);
+unicode = 7710;
+}

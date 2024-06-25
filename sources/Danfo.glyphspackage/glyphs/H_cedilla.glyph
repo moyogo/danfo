@@ -1,0 +1,65 @@
+{
+color = 5;
+glyphname = Hcedilla;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = cedillacomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "152B792B-0447-4783-9892-7BE0DB73E0C1";
+name = "Dec 15, 23 at 09:23";
+shapes = (
+{
+ref = H;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = cedillacomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "D657FDCF-C3DE-49BB-AB8B-4C9DA4177059";
+name = "{100} Dec 15, 23 at 09:25";
+shapes = (
+{
+ref = H;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = cedillacomb;
+}
+);
+width = 700;
+}
+);
+unicode = 7720;
+}

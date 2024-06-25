@@ -1,0 +1,92 @@
+{
+color = 5;
+glyphname = Sdotbelow;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (244,0);
+ref = dotbelowcomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "E685E04C-C84B-4CBD-9078-E44EF3C24A71";
+name = "Jan 9, 24 at 14:10";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (244,0);
+ref = dotbelowcomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "3053CE02-D909-4114-9867-6FBB335E43EC";
+name = "Jan 9, 24 at 14:10";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (244,0);
+ref = dotbelowcomb;
+}
+);
+width = 625;
+}
+);
+unicode = 7778;
+}

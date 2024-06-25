@@ -1,0 +1,14 @@
+{
+glyphname = zero.osf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+}
+);
+width = 634;
+}
+);
+}

@@ -1,0 +1,95 @@
+{
+glyphname = verticallinebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (52,0);
+},
+{
+name = bottom;
+pos = (52,-212);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-69,l),
+(28,-69,l),
+(10,-210,l),
+(93,-212,l)
+);
+}
+);
+width = 103;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (52,0);
+},
+{
+name = bottom;
+pos = (52,-212);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "AB9ACFF3-9CA6-4E38-82F2-E14EF56B4530";
+name = "Jan 10, 24 at 17:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-69,l),
+(28,-69,l),
+(10,-210,l),
+(93,-212,l)
+);
+}
+);
+width = 103;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (52,0);
+},
+{
+name = bottom;
+pos = (52,-212);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8E96A71D-26B6-47B1-AF9C-D98DC70CF36B";
+name = "Jan 10, 24 at 17:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-69,l),
+(28,-69,l),
+(10,-210,l),
+(93,-212,l)
+);
+}
+);
+width = 103;
+}
+);
+unicode = 809;
+}

@@ -1,0 +1,80 @@
+{
+glyphname = ringbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (128,0);
+},
+{
+name = bottom;
+pos = (128,-186);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-937);
+ref = ringcomb;
+}
+);
+width = 256;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (128,0);
+},
+{
+name = bottom;
+pos = (128,-186);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "C0BBC87B-D130-4E19-A8EE-812348ED802A";
+name = "Feb 21, 24 at 10:55";
+shapes = (
+{
+pos = (0,-937);
+ref = ringcomb;
+}
+);
+width = 256;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (128,0);
+},
+{
+name = bottom;
+pos = (128,-186);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "4BF061D5-EFC0-4F6F-9241-65A6683F1799";
+name = "Feb 21, 24 at 10:55";
+shapes = (
+{
+pos = (0,-937);
+ref = ringcomb;
+}
+);
+width = 256;
+}
+);
+unicode = 805;
+}

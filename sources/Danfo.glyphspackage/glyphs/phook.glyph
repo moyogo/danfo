@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = phook;
+kernLeft = LeftHook;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Phook;
+}
+);
+width = 686;
+}
+);
+unicode = 421;
+}

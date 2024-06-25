@@ -1,0 +1,74 @@
+{
+color = 5;
+glyphname = Emacrongrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (143,8);
+ref = macroncomb;
+},
+{
+pos = (137,122);
+ref = gravecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "85FE2F32-66A4-4839-B80A-06FC3BF754DD";
+name = "{50} 9 Jan 24 at 17:10";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (143,8);
+ref = macroncomb;
+},
+{
+pos = (137,122);
+ref = gravecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "5CEE084F-1F17-43FB-8D40-EED122CBC029";
+name = "9 Jan 24 at 17:10";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (143,8);
+ref = macroncomb;
+},
+{
+pos = (137,122);
+ref = gravecomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7700;
+}

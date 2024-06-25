@@ -1,0 +1,140 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (148,716);
+},
+{
+name = circumflexacute;
+pos = (122,871);
+},
+{
+name = circumflexgrave;
+pos = (182,872);
+},
+{
+name = circumflexhook;
+pos = (206,861);
+},
+{
+name = top;
+pos = (146,884);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,757,l),
+(148,820,l),
+(212,757,l),
+(292,757,l),
+(214,884,l),
+(84,884,l),
+(10,757,l)
+);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (148,716);
+},
+{
+name = circumflexacute;
+pos = (122,871);
+},
+{
+name = circumflexgrave;
+pos = (182,872);
+},
+{
+name = circumflexhook;
+pos = (206,861);
+},
+{
+name = top;
+pos = (146,884);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "187AA175-7A3D-479B-BB9E-4410D72C394C";
+name = "Jan 24, 24 at 13:48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,757,l),
+(148,820,l),
+(212,757,l),
+(292,757,l),
+(214,884,l),
+(84,884,l),
+(10,757,l)
+);
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (148,716);
+},
+{
+name = circumflexacute;
+pos = (122,871);
+},
+{
+name = circumflexgrave;
+pos = (182,872);
+},
+{
+name = circumflexhook;
+pos = (206,861);
+},
+{
+name = top;
+pos = (146,884);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "562F9748-A4AF-4DF4-A9B4-02CF71910F1D";
+name = "Jan 24, 24 at 13:48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,757,l),
+(148,820,l),
+(212,757,l),
+(292,757,l),
+(214,884,l),
+(84,884,l),
+(10,757,l)
+);
+}
+);
+width = 302;
+}
+);
+unicode = 770;
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Edotbelow;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (236,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "9D3AD1CC-D93B-47A1-BAB1-C4587AD6C363";
+name = "{50} 9 Jan 24 at 17:06";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (236,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "DC92A18F-9A99-4880-9D7F-2D72BF0F1754";
+name = "9 Jan 24 at 17:06";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (236,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7864;
+}

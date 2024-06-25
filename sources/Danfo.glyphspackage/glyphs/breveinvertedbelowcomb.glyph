@@ -1,0 +1,41 @@
+{
+glyphname = breveinvertedbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (131,0);
+},
+{
+name = bottom;
+pos = (131,-151);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,-151,l),
+(86,-114,o),
+(104,-98,o),
+(129,-98,cs),
+(156,-98,o),
+(174,-115,o),
+(185,-151,c),
+(252,-151,l),
+(252,-75,o),
+(203,-25,o),
+(129,-25,cs),
+(57,-25,o),
+(13,-72,o),
+(10,-151,c)
+);
+}
+);
+width = 262;
+}
+);
+unicode = 815;
+}

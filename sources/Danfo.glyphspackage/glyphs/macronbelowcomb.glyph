@@ -1,0 +1,80 @@
+{
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (152,0);
+},
+{
+name = bottom;
+pos = (152,-116);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-874);
+ref = macroncomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (152,0);
+},
+{
+name = bottom;
+pos = (152,-116);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "CFEE92AC-E3D7-4DC9-BEE2-D3450E1DF3D3";
+name = "Jan 10, 24 at 20:59";
+shapes = (
+{
+pos = (0,-874);
+ref = macroncomb;
+}
+);
+width = 310;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (152,0);
+},
+{
+name = bottom;
+pos = (152,-116);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "32352A97-409C-4EA3-99A1-C6B91D6F3F6A";
+name = "Jan 10, 24 at 20:59";
+shapes = (
+{
+pos = (0,-874);
+ref = macroncomb;
+}
+);
+width = 310;
+}
+);
+unicode = 817;
+}

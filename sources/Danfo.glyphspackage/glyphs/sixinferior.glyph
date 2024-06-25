@@ -1,0 +1,17 @@
+{
+glyphname = sixinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = six.dnom;
+}
+);
+width = 276;
+}
+);
+metricLeft = six;
+metricRight = six;
+unicode = 8326;
+}

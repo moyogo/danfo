@@ -1,0 +1,18 @@
+{
+glyphname = leftBlackSmallTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (350,0);
+ref = rightBlackSmallTriangle;
+scale = (-1,1);
+}
+);
+width = 350;
+}
+);
+metricRight = H;
+unicode = 9666;
+}

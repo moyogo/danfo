@@ -1,0 +1,21 @@
+{
+glyphname = dotaboverightcomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,607,l),
+(128,716,l),
+(32,716,l),
+(32,607,l)
+);
+}
+);
+width = 160;
+}
+);
+unicode = 856;
+}

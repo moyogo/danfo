@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = dmacronbelow;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Dmacronbelow;
+}
+);
+width = 623;
+}
+);
+unicode = 7695;
+}

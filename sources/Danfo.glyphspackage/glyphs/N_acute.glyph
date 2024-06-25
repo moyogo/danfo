@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Nacute;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (284,0);
+ref = acutecomb;
+}
+);
+width = 696;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "A68E412E-7805-4B57-9EA0-F67BD1909F3C";
+name = "Jan 10, 24 at 23:05";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (284,0);
+ref = acutecomb;
+}
+);
+width = 696;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "A75BB478-9C8B-4C94-B56A-A649B1B6D378";
+name = "Jan 10, 24 at 23:05";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (284,0);
+ref = acutecomb;
+}
+);
+width = 696;
+}
+);
+unicode = 323;
+}

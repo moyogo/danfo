@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = vhook;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Vhook;
+}
+);
+width = 655;
+}
+);
+unicode = 651;
+}

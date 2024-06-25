@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ahookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ahookabove;
+}
+);
+width = 700;
+}
+);
+unicode = 7843;
+}

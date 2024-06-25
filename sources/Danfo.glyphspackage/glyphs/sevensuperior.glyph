@@ -1,0 +1,17 @@
+{
+glyphname = sevensuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = seven.numr;
+}
+);
+width = 241;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+unicode = 8311;
+}

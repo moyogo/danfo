@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = ainvertedbreve;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ainvertedbreve;
+}
+);
+width = 700;
+}
+);
+unicode = 515;
+}

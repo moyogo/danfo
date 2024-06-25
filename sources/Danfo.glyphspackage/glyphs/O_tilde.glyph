@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Otilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "35F325BA-DEDD-446F-8CB8-42BC4F9DB95C";
+name = "Jan 11, 24 at 00:22";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "0DDA232E-50AF-49D3-A4A1-7FB0F4373EFD";
+name = "Jan 11, 24 at 00:22";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 213;
+}

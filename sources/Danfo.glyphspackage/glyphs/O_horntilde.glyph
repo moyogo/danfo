@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ohorntilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "47F06B01-334A-45D7-BC53-234AFE44F7B5";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "D4A9F5DE-14C9-4A89-82E9-E29FD209A11B";
+name = "Jan 11, 24 at 00:13";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (174,0);
+ref = tildecomb;
+}
+);
+width = 634;
+}
+);
+unicode = 7904;
+}

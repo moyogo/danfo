@@ -1,0 +1,92 @@
+{
+color = 5;
+glyphname = Scommaaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (314,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (243,0);
+ref = commaaccentcomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "92D4798F-29DD-49A0-BFF8-5A56318136E1";
+name = "Jan 9, 24 at 14:06";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (243,0);
+ref = commaaccentcomb;
+}
+);
+width = 625;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (322,0);
+},
+{
+name = top;
+pos = (292,716);
+}
+);
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "8D256A51-024A-457F-85CC-049D9948DAE3";
+name = "Jan 9, 24 at 14:06";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (243,0);
+ref = commaaccentcomb;
+}
+);
+width = 625;
+}
+);
+unicode = 536;
+}

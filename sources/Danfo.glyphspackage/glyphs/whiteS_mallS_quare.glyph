@@ -1,0 +1,30 @@
+{
+glyphname = whiteSmallSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,144,l),
+(319,434,l),
+(29,434,l),
+(29,144,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(107,356,l),
+(241,356,l),
+(241,222,l),
+(107,222,l)
+);
+}
+);
+width = 348;
+}
+);
+unicode = 9643;
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Atilde;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (202,0);
+ref = tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "3E16DA24-BF9E-4FF4-ABBC-2452A6601BEB";
+name = "{50} 9 Jan 24 at 22:24";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (202,0);
+ref = tildecomb;
+}
+);
+width = 700;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "73E33E63-376A-46EF-A9C2-BFAF2FC52718";
+name = "9 Jan 24 at 22:24";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (202,0);
+ref = tildecomb;
+}
+);
+width = 700;
+}
+);
+unicode = 195;
+}

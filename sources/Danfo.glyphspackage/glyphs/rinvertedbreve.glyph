@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = rinvertedbreve;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Rinvertedbreve;
+}
+);
+width = 699;
+}
+);
+unicode = 531;
+}

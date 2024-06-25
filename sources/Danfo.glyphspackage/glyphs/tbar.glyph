@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = tbar;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Tbar;
+}
+);
+width = 552;
+}
+);
+unicode = 359;
+}

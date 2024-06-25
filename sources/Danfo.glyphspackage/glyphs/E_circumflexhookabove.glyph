@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Ecircumflexhookabove;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (141,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "6B19C9DB-877C-4A1B-A29A-C9ECE5996B59";
+name = "{50} 9 Jan 24 at 17:03";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (141,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 576;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "79B74C88-65B9-4DAB-A523-09E9330A65FE";
+name = "9 Jan 24 at 17:03";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (141,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7874;
+}

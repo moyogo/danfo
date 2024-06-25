@@ -1,0 +1,17 @@
+{
+glyphname = oneinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.dnom;
+}
+);
+width = 245;
+}
+);
+metricLeft = one;
+metricRight = one;
+unicode = 8321;
+}

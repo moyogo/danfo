@@ -1,0 +1,15 @@
+{
+glyphname = minusmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = minus;
+}
+);
+width = 336;
+}
+);
+unicode = 727;
+}

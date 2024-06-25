@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Lmiddletilde.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (-38,10);
+ref = tildeoverlaycomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "1BF9F852-E43C-443D-B6EC-0ABB9A33A1FF";
+name = "Jan 15, 24 at 14:18";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (-38,10);
+ref = tildeoverlaycomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "E146C062-75C1-4E52-8465-961A08BF6115";
+name = "Jan 15, 24 at 14:18";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (-38,10);
+ref = tildeoverlaycomb;
+}
+);
+width = 567;
+}
+);
+}

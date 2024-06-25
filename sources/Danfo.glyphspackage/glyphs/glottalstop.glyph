@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = glottalstop;
+kernLeft = Glottal;
+kernRight = Glottal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Glottalstopsmall;
+}
+);
+width = 565;
+}
+);
+unicode = 660;
+}

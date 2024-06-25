@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Lacute.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (116,0);
+ref = acutecomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "A1E3BB23-7060-4A26-8C4E-8B784FD16A8F";
+name = "Jan 15, 24 at 13:22";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (116,0);
+ref = acutecomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "9150D46D-C09F-4331-9BD6-E779AA6354E9";
+name = "Jan 15, 24 at 13:22";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (116,0);
+ref = acutecomb;
+}
+);
+width = 567;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Odieresis;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (183,0);
+ref = dieresiscomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "5D2038BD-6BF9-45D8-9F1A-5E3497E2ED05";
+name = "Jan 10, 24 at 23:58";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (183,0);
+ref = dieresiscomb;
+}
+);
+width = 634;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "02A75AAD-679D-4B44-BADD-F8FD383E949A";
+name = "Jan 10, 24 at 23:58";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (183,0);
+ref = dieresiscomb;
+}
+);
+width = 634;
+}
+);
+unicode = 214;
+}

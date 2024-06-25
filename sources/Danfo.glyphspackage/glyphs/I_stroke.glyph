@@ -1,0 +1,62 @@
+{
+color = 5;
+glyphname = Istroke;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (17,-5);
+ref = strokeshortcomb;
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "A6E20D34-CEE8-454C-B65B-201C1A9C5AC3";
+name = "Jan 10, 24 at 22:14";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (17,-5);
+ref = strokeshortcomb;
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "962E2654-419B-407F-957C-4158E254FC57";
+name = "Jan 10, 24 at 22:14";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (17,-5);
+ref = strokeshortcomb;
+}
+);
+width = 350;
+}
+);
+unicode = 407;
+}

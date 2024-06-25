@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = Cdotaccent.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (228,0);
+ref = dotaccentcomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+50
+);
+};
+layerId = "BF87B757-1DCB-4DEF-9DE5-C66414DC9A30";
+name = "Jan 15, 24 at 12:54";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (228,0);
+ref = dotaccentcomb;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = m01;
+attr = {
+coordinates = (
+100
+);
+};
+layerId = "32B3CF5A-0743-4ACB-AB39-4CAD52535B00";
+name = "100";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (228,0);
+ref = dotaccentcomb;
+}
+);
+width = 589;
+}
+);
+}
